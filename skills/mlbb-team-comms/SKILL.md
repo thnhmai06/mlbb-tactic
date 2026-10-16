@@ -4,7 +4,7 @@ description: Team-communication notebook for Mobile Legends Bang Bang (MLBB) - t
 license: MIT
 metadata:
   version: "1.0.0"
-  source: "Based on Monkeyplay MLBB In English (youtube.com/@MonkeyplayMLBBInEnglish) and videos by Elgin Ray (youtube.com/@ElginRay)"
+  source: "Videos in the playlist https://www.youtube.com/playlist?list=PLUIBq_YdbUg4"
 ---
 
 # MLBB team comms notebook
@@ -29,4 +29,4 @@ The notebook teaches *how to think*: decision rules, priorities and the reasons 
 - Core macro thinking and the glossary are in the `mlbb-tactics` skill.
 
 ## Credits
-The knowledge in this notebook is based on the course of **Monkeyplay MLBB In English** (https://www.youtube.com/@MonkeyplayMLBBInEnglish) and some videos by **Elgin Ray** (https://www.youtube.com/@ElginRay). These are paraphrased learning notes with timestamps, not transcripts; all credit for the ideas goes to the creators. Notes licensed MIT.
+The videos referenced by this notebook are in this playlist: https://www.youtube.com/playlist?list=PLUIBq_YdbUg4. These are paraphrased learning notes with timestamps, not transcripts; all credit for the ideas goes to the video creators. Notes licensed MIT.

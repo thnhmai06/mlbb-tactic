@@ -2,7 +2,7 @@
 
 A set of **Agent Skills** for Mobile Legends: Bang Bang (MLBB), written as a beginner's notebook of hard-won lessons. Install it into Claude Code, Codex, Cursor, Gemini/Antigravity or any agent supported by [skills.sh](https://skills.sh), and your agent can coach you on macro, lane roles, draft, itemization, emblems, settings, micro mechanics and high-rank chat codes.
 
-> The knowledge is based on the course of **[Monkeyplay MLBB In English](https://www.youtube.com/@MonkeyplayMLBBInEnglish)** and some videos by **[Elgin Ray](https://www.youtube.com/@ElginRay)**. These are paraphrased learning notes with timestamps for cross-checking, not transcripts; all credit for the ideas goes to the creators.
+> The videos referenced are in this playlist: https://www.youtube.com/playlist?list=PLUIBq_YdbUg4. These are paraphrased learning notes with timestamps for cross-checking, not transcripts; all credit for the ideas goes to the video creators.
 
 ## A framework, not a database
 
@@ -101,7 +101,7 @@ Just ask your agent in plain language; the right skill loads when the question i
 | EMB | I Studied Every Emblem So You Don't Have To |
 | SET | I Studied Every Setting So You Don't Have To |
 
-From the channels Monkeyplay MLBB In English and Elgin Ray (links at the top).
+All videos are in the playlist: https://www.youtube.com/playlist?list=PLUIBq_YdbUg4
 
 ## Repository layout
 
@@ -126,4 +126,4 @@ Each `SKILL.md` follows the [Agent Skills](https://agentskills.io) format: YAML 
 
 ## License
 
-[MIT](LICENSE). The ideas belong to the video creators credited above. Mobile Legends: Bang Bang is a trademark of Moonton; this project is not affiliated with Moonton.
+[MIT](LICENSE). The ideas belong to the creators of the referenced videos. Mobile Legends: Bang Bang is a trademark of Moonton; this project is not affiliated with Moonton.
