@@ -1,6 +1,6 @@
 ---
 name: mlbb-draft
-description: Draft notebook for Mobile Legends Bang Bang (MLBB) ranked games - how to ban by pick order (how many overpowered heroes to leave open), the four team compositions (dive, poke, front-to-back, hypercarry) and their win conditions and weaknesses, pick priority, damage-type balance, and how to adapt when playing solo, duo or trio. Use it whenever a player asks what to ban or pick, how to build a team comp, why their draft lost, whether to copy pro drafts, what "win condition" means, or how to draft in solo queue - even if they phrase it as "nên cấm tướng gì", "my team has 4 marksmen", or "last pick what should I take".
+description: Draft notebook for Mobile Legends Bang Bang (MLBB) ranked games - how to ban by pick order (how many overpowered heroes to leave open), the four team compositions (dive, poke, front-to-back, hypercarry) and their win conditions and weaknesses, pick priority, damage-type balance, and how to adapt when playing solo, duo or trio. Use it whenever a player asks what to ban or pick, how to build a team comp, why their draft lost, whether to copy pro drafts, what "win condition" means, or how to draft in solo queue - even if they phrase it as "what should I ban", "my team has 4 marksmen", or "last pick what should I take".
 license: MIT
 metadata:
   version: "1.0.0"
@@ -24,10 +24,15 @@ Draft logic for public (blind-ban) games, described by role traits rather than h
 - Solo queue: have front line and back line, physical and magic damage, early and late heroes, engage and disengage. (src: DRAFT 14:27)
 - Role-specific draft rules are in the `mlbb-lane-roles` skill.
 
+## This is a framework, not a database
+The notebook teaches *how to think*: decision rules, priorities and the reasons behind them. It deliberately names no heroes, items, emblems, talents or spells and gives no stats. Whenever the player needs something concrete, send them (or yourself, if you can browse) to the right source:
+- **Specific game content** (which hero fits an archetype, what an item, emblem, talent or spell does now, current timers, cooldowns, gold values, mechanics): cross-check on the **MLBB Wiki** (https://mobile-legends.fandom.com).
+- **Match data** (the current meta, tier lists, win/pick/ban rates, counter statistics, what is strong this patch): look it up on **MLBB Hub** (https://mlbbhub.com).
+
 ## How to coach with this notebook
-- Find the rule in the reference, then answer with the decision, the *why*, and the mistake to avoid. Keep it short, reply in the player's language, and quote the source tag `(src: VIDEO mm:ss)` when it helps.
-- The notebook names no heroes or items on purpose: it describes them by role, archetype or property. When the player names a hero or item, map it to the property yourself and say that hero/item details should be checked on mlbbhub.com or the MLBB wiki (mobile-legends.fandom.com).
-- Numbers, timers and "this category exists" claims sit in the **LIVE-DATA TO RE-VERIFY** table at the end of each reference (IDs like `L-XXX-01`). Present them as what the video claimed, not as current values; none have been re-checked yet.
+- Find the rule in the reference, then answer with the decision, the *why*, and the mistake to avoid. Keep it short, and quote the source tag `(src: VIDEO mm:ss)` when it helps.
+- When the player names a hero or item, map it to its role, archetype or property, apply the rule, and tell them to confirm the hero/item details on the MLBB Wiki.
+- Numbers, timers and "this category exists" claims sit in the **LIVE-DATA TO RE-VERIFY** table at the end of each reference (IDs like `L-XXX-01`). Present them as what the video claimed, not as current values; none have been re-checked yet. The table's Source column says where to check each row.
 - `⚠ conflict` / `⚠ unverified` mark open questions in the sources; mention the uncertainty if you rely on one.
 - Core macro thinking and the glossary are in the `mlbb-tactics` skill.
 

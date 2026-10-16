@@ -1,11 +1,14 @@
 # Live data: what must be checked at use time
 
-The notebooks in this skill set keep only durable tactics. Anything that changes with patches lives in a **LIVE-DATA TO RE-VERIFY** table at the end of each reference file, with an ID such as `L-MACRO-03` or `L-JUNG-05`. A rule that depends on such a fact cites the ID in its text.
+The notebooks in this skill set are a framework: they keep only durable tactics. Anything that changes with patches lives in a **LIVE-DATA TO RE-VERIFY** table at the end of each reference file, with an ID such as `L-MACRO-03` or `L-JUNG-05`. A rule that depends on such a fact cites the ID in its text.
 
 ## Protocol when answering
 1. If the advice depends on a number (timer, gold/exp value, cooldown, threshold), on whether an item/spell/talent category still exists, or on which heroes fit an archetype, find the cited L-ID row.
 2. Treat the row as **what the video claimed**, not as current truth. Say so when it matters ("in the video's patch the Turtle came up around 2:00; check the current timer").
-3. If you can browse, check the current value on mlbbhub.com (live stats, items, heroes, meta) or the MLBB wiki (mobile-legends.fandom.com: mechanics, objectives, spells). If you cannot, tell the player what to look up.
+3. Point to the right source, or check it yourself if you can browse:
+   - **MLBB Wiki** (https://mobile-legends.fandom.com) for specific game content: heroes, items, emblems, talents, spells, objectives, timers, gold/exp values and other mechanics.
+   - **MLBB Hub** (https://mlbbhub.com) for match data: the current meta, tier lists, win/pick/ban rates, counter statistics.
+   The Source column of every LIVE table names which of the two applies to that row.
 4. Never fill the notebooks' gaps with hero or item names, numbers or meta picks as if they came from the videos. If you add your own current knowledge, label it as such.
 
 ## Audit status

@@ -116,11 +116,11 @@ Master a small pool of archetypes per role (src: DRAFT 14:54):
 ## LIVE-DATA TO RE-VERIFY
 | ID | What the video claimed | Why it matters | What to check | Source |
 |---|---|---|---|---|
-| L-DRAFT-01 | Public ban phase: 3 initial bans, reveal, then 2 final bans, reveal (5 per side); pro format is turn-based (DRAFT 02:41; TERM 04:36) | OP-hero rule and ban logic assume this structure | Current ban count/order per mode | MLBB wiki / in-game |
-| L-DRAFT-02 | "In every meta there are usually three OP heroes" (DRAFT 02:58) | The 1/2/3-OP-left simulation uses N = 3 | Current number of meta-defining heroes; recompute the rule with the real N | mlbbhub (tier list) |
-| L-DRAFT-03 | Counter-ban examples exist (heroes that counter a planned pick) (DRAFT 04:18) | Ban rule 3b | That counter relationships still hold; use current counter data | mlbbhub (counters) |
-| L-DRAFT-04 | Heroes exist that cancel an engage (dive counters) (DRAFT 05:27) | Dive weakness and extra-ban rule | That engage-cancel kits still exist and which heroes have them | MLBB wiki |
-| L-DRAFT-05 | Poke comp works below the top rank tier but falls off above it (DRAFT 07:25) | Rank-dependent comp choice | Current rank naming and whether it still holds | community / in-game |
-| L-DRAFT-06 | Role archetype pools: dive XP/roam/jungle/mid/marksman; poke mid/gold/roam; executor (reset-on-kill) skills; tanky disengagers; front-to-back marksman/mage options; hypercarry gold/jungle; flexible multi-lane heroes; mid-jungle pressure junglers (DRAFT 04:44–14:18) | Each comp requires these role traits | That each trait/role slot has current heroes (use current hero pool; no names kept) | mlbbhub |
-| L-DRAFT-07 | Role hero-pool slots per lane (initiator/dive/support roamer, etc.) (DRAFT 14:54–15:44) | Mastery rule | Current hero roles | mlbbhub |
-| L-DRAFT-08 | Hero count (about 130) and about 270 trillion possible team combinations (DRAFT 00:00) | Context only | Current hero count | MLBB wiki |
+| L-DRAFT-01 | Public ban phase: 3 initial bans, reveal, then 2 final bans, reveal (5 per side); pro format is turn-based (DRAFT 02:41; TERM 04:36) | OP-hero rule and ban logic assume this structure | Current ban count/order per mode | MLBB Wiki |
+| L-DRAFT-02 | "In every meta there are usually three OP heroes" (DRAFT 02:58) | The 1/2/3-OP-left simulation uses N = 3 | Current number of meta-defining heroes; recompute the rule with the real N | MLBB Hub (match data) |
+| L-DRAFT-03 | Counter-ban examples exist (heroes that counter a planned pick) (DRAFT 04:18) | Ban rule 3b | That counter relationships still hold; use current counter data | MLBB Hub (match data) |
+| L-DRAFT-04 | Heroes exist that cancel an engage (dive counters) (DRAFT 05:27) | Dive weakness and extra-ban rule | That engage-cancel kits still exist and which heroes have them | MLBB Wiki |
+| L-DRAFT-05 | Poke comp works below the top rank tier but falls off above it (DRAFT 07:25) | Rank-dependent comp choice | Current rank naming and whether it still holds | MLBB Hub (match data) |
+| L-DRAFT-06 | Role archetype pools: dive XP/roam/jungle/mid/marksman; poke mid/gold/roam; executor (reset-on-kill) skills; tanky disengagers; front-to-back marksman/mage options; hypercarry gold/jungle; flexible multi-lane heroes; mid-jungle pressure junglers (DRAFT 04:44–14:18) | Each comp requires these role traits | That each trait/role slot has current heroes (use current hero pool; no names kept) | MLBB Wiki |
+| L-DRAFT-07 | Role hero-pool slots per lane (initiator/dive/support roamer, etc.) (DRAFT 14:54–15:44) | Mastery rule | Current hero roles | MLBB Wiki |
+| L-DRAFT-08 | Hero count (about 130) and about 270 trillion possible team combinations (DRAFT 00:00) | Context only | Current hero count | MLBB Wiki |

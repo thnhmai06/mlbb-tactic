@@ -96,11 +96,11 @@ The most important thing is to know when to fight and when to flee. Three cases:
 ## LIVE-DATA TO RE-VERIFY
 | ID | What the video claimed | Why it matters | What to check | Source |
 |---|---|---|---|---|
-| L-GOLD-01 | Gold-laner groups by comp: long-range, high-DPS, mobile gold laners exist as categories (GOLD 01:08–01:35) | Draft table maps comp → gold-laner category | That each category has current heroes; use the current hero pool | mlbbhub |
+| L-GOLD-01 | Gold-laner groups by comp: long-range, high-DPS, mobile gold laners exist as categories (GOLD 01:08–01:35) | Draft table maps comp → gold-laner category | That each category has current heroes; use the current hero pool | MLBB Wiki |
 | L-GOLD-02 | Rank threshold at which the gold laner need not be a marksman/mage; on-screen "80 and above" (GOLD 02:15) | Rule 1b depends on rank | Current rank naming/threshold | in-game / wiki |
-| L-GOLD-03 | A defensive emblem option exists for a gold laner weaker early (a common emblem with a specific defensive talent) (GOLD 02:57) | Emblem rule 1c | That a defensive emblem option with that function exists | mlbbhub / wiki |
-| L-GOLD-04 | Power-spike classification of 27 gold-laner heroes into early (10) / mid (10) / late (7) (GOLD 03:15–03:40) | Fight/flight and Turtle decisions | Per-hero spikes at use time | mlbbhub |
-| L-GOLD-05 | Early game ends at about minute 5 (GOLD 07:33) | Defines early vs mid decisions | Timer vs rule of thumb | wiki |
-| L-GOLD-06 | First Turtle: skip; a teammate skill can bring you there; second Turtle spawns in the gold or XP lane; third Turtle in the mid game (GOLD 06:11–08:17) | Objective participation rules | Turtle spawn timings, lane alternation, rewards | mlbbhub / wiki |
-| L-GOLD-07 | A buff exists that the team may take around a Turtle fight (GOLD 08:31) | TIP 5/5 rule 4 | Buff names/timers | mlbbhub / wiki |
-| L-GOLD-08 | Mobile gold laners can split push standing outer turrets (GOLD 07:49) | Mid-game split push rule | Mobility of current gold laners | mlbbhub |
+| L-GOLD-03 | A defensive emblem option exists for a gold laner weaker early (a common emblem with a specific defensive talent) (GOLD 02:57) | Emblem rule 1c | That a defensive emblem option with that function exists | MLBB Wiki |
+| L-GOLD-04 | Power-spike classification of 27 gold-laner heroes into early (10) / mid (10) / late (7) (GOLD 03:15–03:40) | Fight/flight and Turtle decisions | Per-hero spikes at use time | MLBB Wiki |
+| L-GOLD-05 | Early game ends at about minute 5 (GOLD 07:33) | Defines early vs mid decisions | Timer vs rule of thumb | MLBB Wiki |
+| L-GOLD-06 | First Turtle: skip; a teammate skill can bring you there; second Turtle spawns in the gold or XP lane; third Turtle in the mid game (GOLD 06:11–08:17) | Objective participation rules | Turtle spawn timings, lane alternation, rewards | MLBB Wiki |
+| L-GOLD-07 | A buff exists that the team may take around a Turtle fight (GOLD 08:31) | TIP 5/5 rule 4 | Buff names/timers | MLBB Wiki |
+| L-GOLD-08 | Mobile gold laners can split push standing outer turrets (GOLD 07:49) | Mid-game split push rule | Mobility of current gold laners | MLBB Wiki |

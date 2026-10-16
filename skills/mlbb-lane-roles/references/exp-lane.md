@@ -89,10 +89,10 @@ Scope: What an XP laner does in draft, the 1v1 early game, minion control, the c
 ## LIVE-DATA TO RE-VERIFY
 | ID | What the video claimed | Why it matters | What to check | Source |
 |---|---|---|---|---|
-| L-EXP-01 | XP heroes exist in three groups (damage-dealing, tanky-damage, tanky); the video listed three examples per group (EXP 00:40–01:00) | Draft rule counts tanks in jungle/roam and picks a group | That the classification still exists; use the current hero pool per role | mlbbhub |
-| L-EXP-02 | Mechanism links exist in the game: sustain-from-passive/items, true-damage heroes, burst heroes, dash-only kits, anti-dash effects (EXP 02:09–02:44) | Counter chain relies on these categories | That true-damage and anti-dash effects still exist as hero kit traits | mlbbhub / wiki |
+| L-EXP-01 | XP heroes exist in three groups (damage-dealing, tanky-damage, tanky); the video listed three examples per group (EXP 00:40–01:00) | Draft rule counts tanks in jungle/roam and picks a group | That the classification still exists; use the current hero pool per role | MLBB Wiki |
+| L-EXP-02 | Mechanism links exist in the game: sustain-from-passive/items, true-damage heroes, burst heroes, dash-only kits, anti-dash effects (EXP 02:09–02:44) | Counter chain relies on these categories | That true-damage and anti-dash effects still exist as hero kit traits | MLBB Wiki |
 | L-EXP-03 | Early game runs "up until minute 8"; late game after (EXP 07:41) | Phase boundary used by every rule | Whether this is a timer or the speaker's convention | video claim |
-| L-EXP-04 | One crab = one cannon minion of exp; securing it gives level 4 before the enemy XP laner (EXP 05:36); the enemy arrives at level 3 otherwise (EXP 05:52) | Early objective-race logic | Crab exp value and level thresholds | wiki / mlbbhub |
-| L-EXP-05 | The jungler uses Retribution to secure the Turtle; first Turtle spawn about 2:00 on the game clock (popup at 02:02) (EXP 06:52, 07:05) | Zoning the jungler only matters while Retribution decides objective control | Retribution mechanics vs the Turtle; first-spawn time | wiki |
-| L-EXP-06 | Opening the map alone lets the enemy take the Lord instantly (EXP 07:49) | Why never to open alone | Lord spawn/availability rules | wiki |
-| L-EXP-07 | Slide values of per-hero power-spike columns (early/mid/late) (EXP 06:20) | Matchup logic | Per-hero power spikes (not needed in the tactics; use only at use time) | mlbbhub |
+| L-EXP-04 | One crab = one cannon minion of exp; securing it gives level 4 before the enemy XP laner (EXP 05:36); the enemy arrives at level 3 otherwise (EXP 05:52) | Early objective-race logic | Crab exp value and level thresholds | MLBB Wiki |
+| L-EXP-05 | The jungler uses Retribution to secure the Turtle; first Turtle spawn about 2:00 on the game clock (popup at 02:02) (EXP 06:52, 07:05) | Zoning the jungler only matters while Retribution decides objective control | Retribution mechanics vs the Turtle; first-spawn time | MLBB Wiki |
+| L-EXP-06 | Opening the map alone lets the enemy take the Lord instantly (EXP 07:49) | Why never to open alone | Lord spawn/availability rules | MLBB Wiki |
+| L-EXP-07 | Slide values of per-hero power-spike columns (early/mid/late) (EXP 06:20) | Matchup logic | Per-hero power spikes (not needed in the tactics; use only at use time) | MLBB Wiki |

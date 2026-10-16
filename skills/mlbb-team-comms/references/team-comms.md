@@ -46,7 +46,7 @@ Principle: high-rank chat is not random typing; it is fast, short-form calls. Ea
 ## LIVE-DATA TO RE-VERIFY
 | ID | What the video claimed | Why it matters | What to check | Source |
 |---|---|---|---|---|
-| L-CHAT-01 | The escape spell's cooldown is 2 minutes (the example adds 2 minutes to 6:20 to get 8:20) (CHAT 00:44) | The timer calculation in §3 | Current cooldown of each battle spell | mlbbhub / wiki (battle spells) |
-| L-CHAT-02 | Two spell types are named in calls: an escape/blink spell (F) and a cleanse spell (P) (CHAT 00:24) | Spell-tracking calls rely on their existence | Current battle-spell list and behaviour | mlbbhub / wiki |
-| L-CHAT-03 | Objectives referenced: Lord and Turtle (CHAT 02:22) | `lord` / `turt` calls | Current objective names and timers | mlbbhub / wiki |
+| L-CHAT-01 | The escape spell's cooldown is 2 minutes (the example adds 2 minutes to 6:20 to get 8:20) (CHAT 00:44) | The timer calculation in §3 | Current cooldown of each battle spell | MLBB Wiki |
+| L-CHAT-02 | Two spell types are named in calls: an escape/blink spell (F) and a cleanse spell (P) (CHAT 00:24) | Spell-tracking calls rely on their existence | Current battle-spell list and behaviour | MLBB Wiki |
+| L-CHAT-03 | Objectives referenced: Lord and Turtle (CHAT 02:22) | `lord` / `turt` calls | Current objective names and timers | MLBB Wiki |
 | L-CHAT-04 | Example clock times 7:50, 4:25, 8:20 are illustrative only (CHAT 00:38) | None | No verification needed except spell cooldowns | n/a |

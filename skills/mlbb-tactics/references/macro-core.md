@@ -177,15 +177,15 @@ Most players push turrets carelessly, which makes the push easy to defend. (src:
 ## LIVE-DATA TO RE-VERIFY
 | ID | What the video claimed | Why it matters for the tactic | What to check | Source |
 |---|---|---|---|---|
-| L-MACRO-01 | Plating disappears after five minutes (MACRO 05:35) | Plating ranks above minions/turrets in action priority because it expires | Current plating duration and gold value | mlbbhub / MLBB wiki |
-| L-MACRO-02 | Turret-push example: turret 110 gold, kill 200, minions 200, enemy wave gold 140, net 370 (MACRO 06:21) | Basis of the turret-vs-crab comparison | Current gold per turret, kill and wave | mlbbhub / MLBB wiki |
-| L-MACRO-03 | Crab gives 200 gold; net 400 (XP lane crab), 460 (gold lane crab) (MACRO 06:40) | Why the crab can beat the turret push | Current crab gold per lane; whether lane crabs differ | mlbbhub / MLBB wiki |
-| L-MACRO-04 | Turret tiers named Outer, Inner, Inhibitor (MACRO 04:03) | Turret-value ranking relies on these tiers | Current turret structure on the map | MLBB wiki |
-| L-MACRO-05 | Super minions spawn on the lane whose inhibitor turret is destroyed (MACRO 04:47) | Why side vs mid inhibitor value differs | Super-minion rules and strength | MLBB wiki |
-| L-MACRO-06 | 18th minute as the switch from 3-lane push to straight push (MACRO 09:09) ⚠ unverified link to Lord evolve | Timing of the two turret-push plans | Lord spawn/evolve timing | mlbbhub / MLBB wiki |
-| L-MACRO-07 | Evolved Lord gains damage reduction when teammates are nearby (MACRO 09:32) | Reason for escorting the Lord as five | Current Lord mechanics | mlbbhub / MLBB wiki |
-| L-MACRO-08 | Property-level: a battle spell that gives escape/blink exists and its absence on the enemy can be read from the draft/match (MACRO 03:48); heroes with escape kits exist for split push (MACRO 08:40) | Communication and split-push rules assume these categories | That an escape-type spell category and escape-capable hero archetypes still exist | MLBB wiki (battle spells) |
-| L-MACRO-09 | Retribution can be used to steal/secure a buff (TEST 03:23) | Scenario 2 option A and its risk | Current Retribution mechanics (damage, buff steal) | MLBB wiki (battle spells) |
-| L-MACRO-10 | Turtle is up on the XP side in scenario 3; spawn time, side and alternation unclear (TEST 04:59) | Scenario 3 and the Turtle-based rotation assume an up Turtle on one side | Turtle spawn time, side, alternation | MLBB wiki (objectives) |
-| L-MACRO-11 | Killing the enemy jungler / taking the enemy buff / the Turtle give resource advantage (TEST 07:27) | Scenario 3 trade maths | Buff/Turtle/Lord rewards and respawn timers | MLBB wiki (objectives) |
-| L-MACRO-12 | Patch 1.9.9.0 displayed in tournament clips (MACRO 00:05) | Informational: marks the patch era of the video | Patch number | MLBB wiki |
+| L-MACRO-01 | Plating disappears after five minutes (MACRO 05:35) | Plating ranks above minions/turrets in action priority because it expires | Current plating duration and gold value | MLBB Wiki |
+| L-MACRO-02 | Turret-push example: turret 110 gold, kill 200, minions 200, enemy wave gold 140, net 370 (MACRO 06:21) | Basis of the turret-vs-crab comparison | Current gold per turret, kill and wave | MLBB Wiki |
+| L-MACRO-03 | Crab gives 200 gold; net 400 (XP lane crab), 460 (gold lane crab) (MACRO 06:40) | Why the crab can beat the turret push | Current crab gold per lane; whether lane crabs differ | MLBB Wiki |
+| L-MACRO-04 | Turret tiers named Outer, Inner, Inhibitor (MACRO 04:03) | Turret-value ranking relies on these tiers | Current turret structure on the map | MLBB Wiki |
+| L-MACRO-05 | Super minions spawn on the lane whose inhibitor turret is destroyed (MACRO 04:47) | Why side vs mid inhibitor value differs | Super-minion rules and strength | MLBB Wiki |
+| L-MACRO-06 | 18th minute as the switch from 3-lane push to straight push (MACRO 09:09) ⚠ unverified link to Lord evolve | Timing of the two turret-push plans | Lord spawn/evolve timing | MLBB Wiki |
+| L-MACRO-07 | Evolved Lord gains damage reduction when teammates are nearby (MACRO 09:32) | Reason for escorting the Lord as five | Current Lord mechanics | MLBB Wiki |
+| L-MACRO-08 | Property-level: a battle spell that gives escape/blink exists and its absence on the enemy can be read from the draft/match (MACRO 03:48); heroes with escape kits exist for split push (MACRO 08:40) | Communication and split-push rules assume these categories | That an escape-type spell category and escape-capable hero archetypes still exist | MLBB Wiki |
+| L-MACRO-09 | Retribution can be used to steal/secure a buff (TEST 03:23) | Scenario 2 option A and its risk | Current Retribution mechanics (damage, buff steal) | MLBB Wiki |
+| L-MACRO-10 | Turtle is up on the XP side in scenario 3; spawn time, side and alternation unclear (TEST 04:59) | Scenario 3 and the Turtle-based rotation assume an up Turtle on one side | Turtle spawn time, side, alternation | MLBB Wiki |
+| L-MACRO-11 | Killing the enemy jungler / taking the enemy buff / the Turtle give resource advantage (TEST 07:27) | Scenario 3 trade maths | Buff/Turtle/Lord rewards and respawn timers | MLBB Wiki |
+| L-MACRO-12 | Patch 1.9.9.0 displayed in tournament clips (MACRO 00:05) | Informational: marks the patch era of the video | Patch number | MLBB Wiki |

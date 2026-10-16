@@ -1,79 +1,88 @@
 # MLBB Tactics Skills
 
-Bộ **Agent Skills** về chiến thuật Mobile Legends: Bang Bang (MLBB), viết như một cuốn sổ ghi chép kinh nghiệm cho người mới. Cài vào Claude Code, Codex, Cursor, Gemini/Antigravity… để agent của bạn trở thành "huấn luyện viên" biết macro, vai trò từng lane, draft, lên đồ, emblem, cài đặt, kỹ năng vi mô và mã chat của rank cao.
+A set of **Agent Skills** for Mobile Legends: Bang Bang (MLBB), written as a beginner's notebook of hard-won lessons. Install it into Claude Code, Codex, Cursor, Gemini/Antigravity or any agent supported by [skills.sh](https://skills.sh), and your agent can coach you on macro, lane roles, draft, itemization, emblems, settings, micro mechanics and high-rank chat codes.
 
-> Kiến thức dựa trên giáo trình của kênh **[Monkeyplay MLBB In English](https://www.youtube.com/@MonkeyplayMLBBInEnglish)** và một số video của **[Elgin Ray](https://www.youtube.com/@ElginRay)**. Nội dung là ghi chú diễn giải lại (kèm mốc thời gian để đối chiếu), không phải bản chép lời; mọi công lao về ý tưởng thuộc về các tác giả video.
+> The knowledge is based on the course of **[Monkeyplay MLBB In English](https://www.youtube.com/@MonkeyplayMLBBInEnglish)** and some videos by **[Elgin Ray](https://www.youtube.com/@ElginRay)**. These are paraphrased learning notes with timestamps for cross-checking, not transcripts; all credit for the ideas goes to the creators.
 
-*English summary: a set of Agent Skills (skills.sh compatible) holding beginner-friendly MLBB tactics notes - macro, lane roles, draft, itemization, emblems, settings, micro mechanics and team chat codes. Based on the Monkeyplay MLBB In English course and some videos by Elgin Ray. Install with `npx skills add thnhmai06/mlbb-tactic`.*
+## A framework, not a database
 
-## Các skill
+These skills teach **how to think**: decision rules, priorities and the reasons behind them. They deliberately name no heroes, items, emblems, talents or spells and give no stats, so the reasoning survives patches. For anything concrete, check the live sources yourself:
 
-| Skill | Nội dung |
+| You want to know | Where to look |
 |---|---|
-| `mlbb-tactics` | Skill trung tâm: tư duy macro (thông tin → quyết định → hệ quả), quan sát bản đồ, strong/weak side, xoay lane, giá trị trụ, thứ tự ưu tiên, chiến thuật giao tranh, khi dẫn/khi bị dẫn; thuật ngữ; quy tắc dữ liệu biến động. Điều hướng sang các skill còn lại |
-| `mlbb-lane-roles` | Exp lane, gold lane, mid lane, jungle, roam: chọn tướng theo đội hình, đi lane, kiểm soát lính, nhiệm vụ ở Rùa/Lord, Retribution, Lord dance, late game |
-| `mlbb-draft` | Cấm theo thứ tự pick, 4 đội hình (dive, poke, front-to-back, hypercarry) và điều kiện thắng, thứ tự ưu tiên pick, chơi solo/duo/trio |
-| `mlbb-itemization` | Đồ core theo nguồn sát thương, đồ khắc chế theo thuộc tính, xuyên giáp/chống hồi máu, ứng biến bằng đồ rẻ, combo đồ |
-| `mlbb-emblems` | Chọn emblem và talent theo vai trò/phân loại, các trường hợp ngoại lệ |
-| `mlbb-micro-mechanics` | Đọc scaling, last hit, spacing, power spike, animation cancel, reset đòn đánh, input buffer |
-| `mlbb-settings` | Cài đặt chọn mục tiêu và điều khiển gây ra hoặc tránh được lỗi |
-| `mlbb-team-comms` | Mã chat rank cao (`freeze`, `F MM`, `820 EXP`, `ns`, `rbm`, `peel`, `seg`, `flnk`, `sandwich`…) và hành động tương ứng |
+| Specific game content: which hero fits an archetype, what an item, emblem, talent or spell does now, timers, cooldowns, gold values, mechanics | **MLBB Wiki** - https://mobile-legends.fandom.com |
+| Match data: the current meta, tier lists, win/pick/ban rates, counter statistics, what is strong this patch | **MLBB Hub** - https://mlbbhub.com |
 
-Nên cài cả bộ: `mlbb-tactics` là cửa vào và chứa phần tư duy chung mà các skill khác dựa vào.
+The skills tell the agent to do the same: apply the framework, then point you to the Wiki or MLBB Hub (or look things up itself if it can browse).
 
-## Cài đặt
+## The skills
 
-Cần Node.js 18+ (để chạy `npx`).
+| Skill | What it covers |
+|---|---|
+| `mlbb-tactics` | Hub skill: macro thinking (information → decision → consequence), map awareness, strong/weak side, rotations, turret values, action priority, teamfight strategies, playing from ahead or behind; glossary; how to treat volatile data. Routes to the other skills |
+| `mlbb-lane-roles` | Exp lane, gold lane, mid lane, jungle, roam: what to draft per role, laning and wave control, Turtle and Lord jobs, Retribution fights, the Lord dance, late game |
+| `mlbb-draft` | Bans by pick order, the four team comps (dive, poke, front-to-back, hypercarry) and their win conditions, pick priority, solo/duo/trio |
+| `mlbb-itemization` | Core builds by damage source, counter items by property, penetration vs anti-heal, improvising with cheap components, item combos |
+| `mlbb-emblems` | Emblem and talents by role and sub-type, and the exception cases |
+| `mlbb-micro-mechanics` | Scaling, last hits, spacing, power spikes, animation cancel, attack reset, input buffer |
+| `mlbb-settings` | Targeting and control settings that cause or prevent misplays |
+| `mlbb-team-comms` | High-rank chat codes (`freeze`, `F MM`, `820 EXP`, `ns`, `rbm`, `peel`, `seg`, `flnk`, `sandwich`...) and what each asks you to do |
+
+Install the whole set: `mlbb-tactics` is the entry point and holds the shared macro thinking the others build on.
+
+## Installation
+
+Requires Node.js 18+ (for `npx`).
 
 ```bash
-# Xem danh sách skill trong repo
+# List the skills in this repository
 npx skills add thnhmai06/mlbb-tactic --list
 
-# Cài toàn bộ vào dự án hiện tại (chọn agent khi được hỏi)
+# Install all skills into the current project (you will be asked which agents)
 npx skills add thnhmai06/mlbb-tactic --all
 
-# Cài toàn bộ cho Claude Code, dùng cho mọi dự án (global)
+# Install all skills globally for Claude Code
 npx skills add thnhmai06/mlbb-tactic --skill '*' -a claude-code -g
 
-# Chỉ cài vài skill
+# Install only some skills
 npx skills add thnhmai06/mlbb-tactic --skill mlbb-tactics --skill mlbb-lane-roles
 ```
 
-Quản lý sau khi cài:
+Manage them afterwards:
 
 ```bash
-npx skills list          # xem skill đã cài
-npx skills update        # cập nhật lên bản mới nhất
+npx skills list            # show installed skills
+npx skills update          # update to the latest version
 npx skills remove mlbb-draft
 ```
 
-Cài thủ công (không dùng npx): sao chép từng thư mục trong `skills/` vào thư mục skill của agent, ví dụ `~/.claude/skills/` (Claude Code, global) hoặc `.claude/skills/` (theo dự án), `~/.agents/skills/` (Codex và các agent dùng chuẩn chung).
+Manual install (without `npx`): copy the folders under `skills/` into your agent's skills directory, for example `~/.claude/skills/` (Claude Code, global), `.claude/skills/` (Claude Code, per project) or `~/.agents/skills/` (Codex and other agents using the shared layout).
 
 ```bash
 git clone https://github.com/thnhmai06/mlbb-tactic.git
 cp -r mlbb-tactic/skills/* ~/.claude/skills/
 ```
 
-## Cách dùng
+## Usage
 
-Chỉ cần hỏi agent bằng ngôn ngữ tự nhiên, skill sẽ tự được gọi khi câu hỏi liên quan:
+Just ask your agent in plain language; the right skill loads when the question is about MLBB:
 
-- "Tôi đi rừng, bị invade buff xanh khi không có ai gần, nên làm gì?"
-- "Team có 2 tank rồi, exp lane nên pick loại tướng nào?"
-- "Mình hay bị gank ở gold lane, xem minimap thế nào?"
-- "`seg top` với `ns mid` trong chat nghĩa là gì?"
-- "Đi second pick thì nên để lại mấy tướng OP?"
+- "I'm the jungler and the enemy is invading my blue buff with nobody near me. What do I do?"
+- "My team already has two tanks. What kind of exp laner should I pick?"
+- "I keep getting ganked in gold lane. What should I watch on the minimap?"
+- "What do `seg top` and `ns mid` mean in chat?"
+- "We have second pick. How many overpowered heroes should we leave unbanned?"
 
-## Nguyên tắc của bộ ghi chú
+## How the notebooks are written
 
-1. **Chỉ giữ tư duy và quy tắc ra quyết định.** Thuật ngữ mechanic của MLBB (Rùa/Turtle, Lord, Retribution, plating, crab, inhibitor, buff, emblem…) được giữ kèm định nghĩa. **Không có tên tướng, tên đồ, tên talent hay chỉ số của chúng.** Tướng và đồ được mô tả theo vai trò, kiểu tướng hoặc chức năng ("đồ giảm tốc đánh của kẻ địch khi bị đánh"), nên ghi chú không lỗi thời khi game cập nhật.
-2. **Dữ liệu biến động tách riêng.** Thời gian hồi sinh, vàng/kinh nghiệm, hồi chiêu, ngưỡng chỉ số, việc một loại đồ/phép còn tồn tại hay không… nằm trong bảng **LIVE-DATA TO RE-VERIFY** ở cuối mỗi file tham khảo (mã `L-XXX-nn`). Agent được dặn coi đó là "video nói vậy" và nhắc người chơi kiểm tra lại trên [mlbbhub.com](https://mlbbhub.com) hoặc [MLBB Wiki](https://mobile-legends.fandom.com). Hiện **chưa hàng nào được kiểm chứng** với wiki.
-3. **Truy được nguồn.** Mỗi quy tắc có thẻ `(src: MÃ mm:ss)` trỏ tới video và mốc thời gian (bảng bên dưới).
-4. **Ghi rõ điểm chưa chắc.** `⚠ conflict` là chỗ các nguồn mâu thuẫn, `⚠ unverified` là chỗ không đọc/nghe rõ.
+1. **Principles only.** MLBB mechanic terms (Turtle, Lord, Retribution, plating, crab, inhibitor, buffs, emblems...) are kept with their definitions. Heroes and items are described by role, archetype or function ("an item that reduces the attacker's attack speed"), never by name or stats.
+2. **Volatile data is separated.** Timers, gold/exp values, cooldowns, thresholds and "this category still exists" claims sit in a **LIVE-DATA TO RE-VERIFY** table at the end of each reference file (IDs like `L-JUNG-05`), with a Source column naming the MLBB Wiki or MLBB Hub. The agent presents them as "what the video claimed". **No row has been re-checked yet.**
+3. **Traceable.** Every rule carries a tag `(src: ID mm:ss)` pointing to a video and timestamp (table below).
+4. **Honest about gaps.** `⚠ conflict` marks places where sources disagree; `⚠ unverified` marks things that could not be read or heard clearly.
 
-## Video nguồn
+## Source videos
 
-| Mã | Video |
+| ID | Video |
 |---|---|
 | TERM | Every MLBB Term Explained |
 | HID | Every Hidden Mechanic in MLBB Explained |
@@ -92,9 +101,9 @@ Chỉ cần hỏi agent bằng ngôn ngữ tự nhiên, skill sẽ tự được
 | EMB | I Studied Every Emblem So You Don't Have To |
 | SET | I Studied Every Setting So You Don't Have To |
 
-Các video thuộc kênh Monkeyplay MLBB In English và Elgin Ray (xem liên kết ở đầu trang).
+From the channels Monkeyplay MLBB In English and Elgin Ray (links at the top).
 
-## Cấu trúc repo
+## Repository layout
 
 ```
 skills/
@@ -108,13 +117,13 @@ skills/
 └── mlbb-team-comms/       SKILL.md + references/team-comms.md
 ```
 
-Mỗi `SKILL.md` theo chuẩn [Agent Skills](https://agentskills.io): frontmatter YAML có `name`, `description`, `license`, phần thân ngắn gọn; chi tiết nằm trong `references/` để agent chỉ đọc khi cần.
+Each `SKILL.md` follows the [Agent Skills](https://agentskills.io) format: YAML frontmatter with `name`, `description` and `license`, and a short body. Details live in `references/`, so the agent reads them only when needed.
 
-## Đóng góp
+## Contributing
 
-- Sửa hoặc bổ sung quy tắc: giữ thẻ nguồn, không thêm tên tướng/đồ hay chỉ số vào phần chiến thuật.
-- Kiểm chứng dữ liệu biến động: cập nhật hàng tương ứng trong bảng LIVE (giá trị hiện tại, nguồn, ngày kiểm tra) và đánh dấu `⚠ may be outdated: see L-XXX-nn` vào quy tắc phụ thuộc nếu dữ liệu đã đổi.
+- Editing or adding a rule: keep the source tag, and keep hero/item names and stats out of the tactical text.
+- Verifying volatile data: update the matching LIVE row (current value, source, check date), and if the value changed, mark the dependent rule with `⚠ may be outdated: see L-XXX-nn`.
 
-## Giấy phép
+## License
 
-[MIT](LICENSE). Ghi chú do cộng đồng biên soạn; ý tưởng gốc thuộc về các tác giả video được ghi ở trên. Mobile Legends: Bang Bang là thương hiệu của Moonton; dự án này không liên kết với Moonton.
+[MIT](LICENSE). The ideas belong to the video creators credited above. Mobile Legends: Bang Bang is a trademark of Moonton; this project is not affiliated with Moonton.

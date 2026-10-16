@@ -1,6 +1,6 @@
 ---
 name: mlbb-tactics
-description: Beginner's tactics notebook for Mobile Legends Bang Bang (MLBB) - core macro thinking, map awareness, strong/weak side, rotations, turret values, action priority, teamfight strategies, playing from ahead or behind, plus a glossary of MLBB terms (Turtle, Lord, Retribution, wave control, power spike...). Use it whenever someone asks how to play MLBB better, what to do in a game situation, why they keep losing, what a term means, how to climb rank, or wants coaching on decisions - even when they only say "ML", "Mobile Legends", "rank", "macro", "rotate", "Rùa/Turtle", "Lord" or describe a match moment without naming the game. It is also the entry point that routes to the role, draft, item, emblem, settings, micro and team-chat notebooks.
+description: Beginner's tactics notebook for Mobile Legends Bang Bang (MLBB) - core macro thinking, map awareness, strong/weak side, rotations, turret values, action priority, teamfight strategies, playing from ahead or behind, plus a glossary of MLBB terms (Turtle, Lord, Retribution, wave control, power spike...). Use it whenever someone asks how to play MLBB better, what to do in a game situation, why they keep losing, what a term means, how to climb rank, or wants coaching on decisions - even when they only say "ML", "Mobile Legends", "rank", "macro", "rotate", "Turtle", "Lord" or describe a match moment without naming the game. It is also the entry point that routes to the role, draft, item, emblem, settings, micro and team-chat notebooks.
 license: MIT
 metadata:
   version: "1.0.0"
@@ -14,9 +14,14 @@ A notebook of hard-won lessons for a new MLBB player, distilled from 16 tactics 
 ## How to coach with this notebook
 1. **Read the situation first.** Role, game phase (early / mid / late), ahead or behind, what the map shows (who is missing, which objective is up). If the player's message lacks something that changes the answer, ask one short question; otherwise answer with stated assumptions.
 2. **Find the rule.** Core thinking is below; details are in `references/`. For a role, draft, item, emblem, settings, micro or chat question, use the sibling skill (table at the end) if installed.
-3. **Answer like a coach.** Give the decision, then the *why*, then the common mistake to avoid. Keep it short and concrete. Quote the source tag when the player may want to verify. Reply in the player's language.
-4. **Be honest about volatile data.** If the advice depends on a timer, gold number, item/spell category or which heroes fit an archetype, follow `references/live-data.md`: say it is what the video claimed and that it should be checked on mlbbhub.com or the MLBB wiki.
+3. **Answer like a coach.** Give the decision, then the *why*, then the common mistake to avoid. Keep it short and concrete. Quote the source tag when the player may want to verify.
+4. **Be honest about volatile data.** If the advice depends on a timer, gold number, item/spell category or which heroes fit an archetype, follow `references/live-data.md`: say it is what the video claimed and point to the right source (below).
 5. **Flags matter.** Rules marked `⚠ conflict` or `⚠ unverified` are open questions in the sources; mention the uncertainty if you use them.
+
+## This is a framework, not a database
+The notebook teaches *how to think*: decision rules, priorities and the reasons behind them. It deliberately names no heroes, items, emblems, talents or spells and gives no stats. Whenever the player needs something concrete, send them (or yourself, if you can browse) to the right source:
+- **Specific game content** (which hero fits an archetype, what an item, emblem, talent or spell does now, current timers, cooldowns, gold values, mechanics): cross-check on the **MLBB Wiki** (https://mobile-legends.fandom.com).
+- **Match data** (the current meta, tier lists, win/pick/ban rates, counter statistics, what is strong this patch): look it up on **MLBB Hub** (https://mlbbhub.com).
 
 ## Core thinking (quick card)
 - **Macro is decision-making under uncertainty**, not a list of rules. Loop: information → decision → consequence. Ask every time: *"Based on the information I have, what is the best thing I can do?"* Information tells you what COULD happen; adjust before it happens. (src: TEST 00:00–11:16)

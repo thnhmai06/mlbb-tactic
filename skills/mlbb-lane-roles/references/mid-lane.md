@@ -82,12 +82,12 @@ Then branch by mobility (src: MID 03:02):
 ## LIVE-DATA TO RE-VERIFY
 | ID | What the video claimed | Why it matters | What to check | Source |
 |---|---|---|---|---|
-| L-MID-01 | Mages come in burst, DPS and utility types; roamers that can pick off exist (MID 00:27–01:43) | Draft rules | That mage types and pick-off roamer archetypes still exist | mlbbhub |
-| L-MID-02 | "In the current meta, magic boots are much stronger because a talent provides mana regen" (MID 02:11); boots exist for spam-skill heroes and for heroes needing the cooldown cap (cap value not recorded) (MID 02:23–02:30) | First-shop decision | Boot categories, talent effect and the cooldown-reduction cap | mlbbhub / wiki |
-| L-MID-03 | Level 4 needed for the first Turtle; set up 30 seconds before it spawns; third Turtle to be secured (MID 03:20–04:30) | Early rotation and Turtle set-up | Turtle spawn times and level requirements | mlbbhub / wiki |
-| L-MID-04 | Waves spawn at :10 and :40 each minute (speech "10th and 14th second" — conflict); base-to-centre walk 17 s; meet at :27 and :57 (MID 04:52) | Rotation timing | Minion spawn times and walk time | wiki |
-| L-MID-05 | An anti-heal magic item exists (magic power, health, speed, burn passive on the slide; stats not recorded) and the game has two other anti-heal items, one tank-side (MID 05:36–05:55) | Buy rule | That anti-heal item categories (mage-side, tank-side) still exist | mlbbhub / wiki |
-| L-MID-06 | Retribution damage scales with jungler level, so a higher-level jungler wins Retribution fights; the slide compared two levels (numbers not recorded) (MID 06:12) | "Never let your jungler fall behind" | That Retribution still scales with level | mlbbhub / wiki |
-| L-MID-07 | Enemy marksmen lack defensive items in the mid game (MID 06:52) | Why the gold lane is easier to gank | Item timing (relative claim) | mlbbhub |
-| L-MID-08 | A late-game defensive item must be broken by the mid mage (MID 07:29) | Late-game obligation 2 | That an item category with this function exists | mlbbhub / wiki |
-| L-MID-09 | Mages do not deal turret damage (MID 07:44) | "Do not push turrets" | Turret damage multipliers for mages | wiki |
+| L-MID-01 | Mages come in burst, DPS and utility types; roamers that can pick off exist (MID 00:27–01:43) | Draft rules | That mage types and pick-off roamer archetypes still exist | MLBB Wiki |
+| L-MID-02 | "In the current meta, magic boots are much stronger because a talent provides mana regen" (MID 02:11); boots exist for spam-skill heroes and for heroes needing the cooldown cap (cap value not recorded) (MID 02:23–02:30) | First-shop decision | Boot categories, talent effect and the cooldown-reduction cap | MLBB Wiki |
+| L-MID-03 | Level 4 needed for the first Turtle; set up 30 seconds before it spawns; third Turtle to be secured (MID 03:20–04:30) | Early rotation and Turtle set-up | Turtle spawn times and level requirements | MLBB Wiki |
+| L-MID-04 | Waves spawn at :10 and :40 each minute (speech "10th and 14th second" — conflict); base-to-centre walk 17 s; meet at :27 and :57 (MID 04:52) | Rotation timing | Minion spawn times and walk time | MLBB Wiki |
+| L-MID-05 | An anti-heal magic item exists (magic power, health, speed, burn passive on the slide; stats not recorded) and the game has two other anti-heal items, one tank-side (MID 05:36–05:55) | Buy rule | That anti-heal item categories (mage-side, tank-side) still exist | MLBB Wiki |
+| L-MID-06 | Retribution damage scales with jungler level, so a higher-level jungler wins Retribution fights; the slide compared two levels (numbers not recorded) (MID 06:12) | "Never let your jungler fall behind" | That Retribution still scales with level | MLBB Wiki |
+| L-MID-07 | Enemy marksmen lack defensive items in the mid game (MID 06:52) | Why the gold lane is easier to gank | Item timing (relative claim) | MLBB Wiki |
+| L-MID-08 | A late-game defensive item must be broken by the mid mage (MID 07:29) | Late-game obligation 2 | That an item category with this function exists | MLBB Wiki |
+| L-MID-09 | Mages do not deal turret damage (MID 07:44) | "Do not push turrets" | Turret damage multipliers for mages | MLBB Wiki |

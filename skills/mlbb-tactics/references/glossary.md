@@ -75,16 +75,16 @@ Scope: Definitions of the vocabulary the other topic files rely on, in match ord
 ## LIVE-DATA TO RE-VERIFY
 | ID | What the video claimed | Why it matters | What to check | Source |
 |---|---|---|---|---|
-| L-GLOSS-01 | The meta (at filming time) favours DPS heroes over burst heroes (TERM 00:30) | Meta rules in the glossary are time-bound | Whether the current meta still favours that damage style | mlbbhub (tier/meta) |
-| L-GLOSS-02 | Tanky heroes are usually also initiators; the video named three example heroes (TERM 02:06) | Role/archetype claim relies on hero kits | Only that tank-type heroes with engage skills still exist as a category | mlbbhub / wiki |
-| L-GLOSS-03 | Scaling example: more physical attack gives more damage for a hero that scales on it (illustrative numbers not recorded) (TERM 03:41) | Numbers are illustrations, not rules | Nothing to rely on | wiki |
-| L-GLOSS-04 | Damage types: physical, magic, adaptive, true; true ignores defence (TERM 03:53) | Draft/itemization rely on damage types | That the four damage types and their interaction with defence still hold | wiki |
-| L-GLOSS-05 | A draft with four marksmen is dodged/blocked (TERM 06:20) | Draft composition limit | Current composition restrictions per mode | mlbbhub / in-game |
-| L-GLOSS-06 | Early game = first 5 minutes; plating exists; siege minions give extra gold/exp (TERM 06:48) | Defines the early-game window | Early-game length, plating duration, siege-minion bonus | wiki |
-| L-GLOSS-07 | Plating = golden tower layer that gives gold when hit; minions spawn every few seconds in waves (TERM 07:10) | Wave and plating tactics depend on it | Plating gold, spawn interval, wave composition | wiki |
-| L-GLOSS-08 | Lifesteal / spell vamp / hybrid lifesteal definitions (TERM 08:50) | Sustain advice depends on these stat categories | That these three sustain categories still exist as defined | mlbbhub / wiki |
-| L-GLOSS-09 | Blue buff reduces mana/energy cost and cooldowns; red buff adds true damage; Turtle buff gives a lot of gold and exp (TERM 09:18) | Jungle/objective priorities depend on buff effects | Current buff effects and Turtle rewards | mlbbhub / wiki |
-| L-GLOSS-10 | Mid game from minute 5 until the Lord spawns; diagram marks Lord at minute 8 (TERM 10:43) | Phase boundaries | Lord spawn time, early/mid boundary | wiki |
-| L-GLOSS-11 | Lord evolves at minute 18 (audio) vs about 17 (graphic) (TERM 11:58) ⚠ conflict | Late-game timing | Evolve time | wiki |
-| L-GLOSS-12 | Lord minions stronger than super minions; super minions appear on destroying the enemy inhibitor (TERM 12:08) | Push decisions | Minion strength and trigger conditions | wiki |
-| L-GLOSS-13 | Public = blind ban, pro = draft ban; first 3 = top bans, last 2 = bottom bans (TERM 04:36–04:51) | Draft tactics depend on ban format | Ban-phase format per mode | wiki |
+| L-GLOSS-01 | The meta (at filming time) favours DPS heroes over burst heroes (TERM 00:30) | Meta rules in the glossary are time-bound | Whether the current meta still favours that damage style | MLBB Hub (match data) |
+| L-GLOSS-02 | Tanky heroes are usually also initiators; the video named three example heroes (TERM 02:06) | Role/archetype claim relies on hero kits | Only that tank-type heroes with engage skills still exist as a category | MLBB Wiki |
+| L-GLOSS-03 | Scaling example: more physical attack gives more damage for a hero that scales on it (illustrative numbers not recorded) (TERM 03:41) | Numbers are illustrations, not rules | Nothing to rely on | MLBB Wiki |
+| L-GLOSS-04 | Damage types: physical, magic, adaptive, true; true ignores defence (TERM 03:53) | Draft/itemization rely on damage types | That the four damage types and their interaction with defence still hold | MLBB Wiki |
+| L-GLOSS-05 | A draft with four marksmen is dodged/blocked (TERM 06:20) | Draft composition limit | Current composition restrictions per mode | MLBB Wiki |
+| L-GLOSS-06 | Early game = first 5 minutes; plating exists; siege minions give extra gold/exp (TERM 06:48) | Defines the early-game window | Early-game length, plating duration, siege-minion bonus | MLBB Wiki |
+| L-GLOSS-07 | Plating = golden tower layer that gives gold when hit; minions spawn every few seconds in waves (TERM 07:10) | Wave and plating tactics depend on it | Plating gold, spawn interval, wave composition | MLBB Wiki |
+| L-GLOSS-08 | Lifesteal / spell vamp / hybrid lifesteal definitions (TERM 08:50) | Sustain advice depends on these stat categories | That these three sustain categories still exist as defined | MLBB Wiki |
+| L-GLOSS-09 | Blue buff reduces mana/energy cost and cooldowns; red buff adds true damage; Turtle buff gives a lot of gold and exp (TERM 09:18) | Jungle/objective priorities depend on buff effects | Current buff effects and Turtle rewards | MLBB Wiki |
+| L-GLOSS-10 | Mid game from minute 5 until the Lord spawns; diagram marks Lord at minute 8 (TERM 10:43) | Phase boundaries | Lord spawn time, early/mid boundary | MLBB Wiki |
+| L-GLOSS-11 | Lord evolves at minute 18 (audio) vs about 17 (graphic) (TERM 11:58) ⚠ conflict | Late-game timing | Evolve time | MLBB Wiki |
+| L-GLOSS-12 | Lord minions stronger than super minions; super minions appear on destroying the enemy inhibitor (TERM 12:08) | Push decisions | Minion strength and trigger conditions | MLBB Wiki |
+| L-GLOSS-13 | Public = blind ban, pro = draft ban; first 3 = top bans, last 2 = bottom bans (TERM 04:36–04:51) | Draft tactics depend on ban format | Ban-phase format per mode | MLBB Wiki |

@@ -1,6 +1,6 @@
 ---
 name: mlbb-lane-roles
-description: Role-by-role notebook for Mobile Legends Bang Bang (MLBB) - exp lane, gold lane (marksman), mid lane (mage), jungle and roam. Covers which type to draft for each role, early laning and wave control (freeze, fast clear, cutting, breaking a freeze), crab and Turtle jobs, rotations, Retribution fights and the Lord dance, teamfight targets and late-game positioning. Use it whenever a player asks how to play a specific role or lane in MLBB, what their job is at the Turtle or Lord, whether to rotate, how to lane against someone, or what to do as jungler/roamer/mid/gold/exp at a given minute - even if they just say "tôi đi rừng", "I main roam", "mid lane tips" or describe a lane situation.
+description: Role-by-role notebook for Mobile Legends Bang Bang (MLBB) - exp lane, gold lane (marksman), mid lane (mage), jungle and roam. Covers which type to draft for each role, early laning and wave control (freeze, fast clear, cutting, breaking a freeze), crab and Turtle jobs, rotations, Retribution fights and the Lord dance, teamfight targets and late-game positioning. Use it whenever a player asks how to play a specific role or lane in MLBB, what their job is at the Turtle or Lord, whether to rotate, how to lane against someone, or what to do as jungler/roamer/mid/gold/exp at a given minute - even if they just say "I main roam", "mid lane tips", "I always lose exp lane" or describe a lane situation.
 license: MIT
 metadata:
   version: "1.0.0"
@@ -26,10 +26,15 @@ Beginner-friendly rules for the five roles, from the "Macro Like Immortal Player
 - Never show yourself alone on the map late game; whoever gets caught gives the Lord. (src: EXP 07:49; JUNG 07:44; MID 07:21)
 - Late teamfights target the enemy marksman and damage dealers. (src: EXP 08:41; JUNG 07:23; ROAM 07:55)
 
+## This is a framework, not a database
+The notebook teaches *how to think*: decision rules, priorities and the reasons behind them. It deliberately names no heroes, items, emblems, talents or spells and gives no stats. Whenever the player needs something concrete, send them (or yourself, if you can browse) to the right source:
+- **Specific game content** (which hero fits an archetype, what an item, emblem, talent or spell does now, current timers, cooldowns, gold values, mechanics): cross-check on the **MLBB Wiki** (https://mobile-legends.fandom.com).
+- **Match data** (the current meta, tier lists, win/pick/ban rates, counter statistics, what is strong this patch): look it up on **MLBB Hub** (https://mlbbhub.com).
+
 ## How to coach with this notebook
-- Find the rule in the reference, then answer with the decision, the *why*, and the mistake to avoid. Keep it short, reply in the player's language, and quote the source tag `(src: VIDEO mm:ss)` when it helps.
-- The notebook names no heroes or items on purpose: it describes them by role, archetype or property. When the player names a hero or item, map it to the property yourself and say that hero/item details should be checked on mlbbhub.com or the MLBB wiki (mobile-legends.fandom.com).
-- Numbers, timers and "this category exists" claims sit in the **LIVE-DATA TO RE-VERIFY** table at the end of each reference (IDs like `L-XXX-01`). Present them as what the video claimed, not as current values; none have been re-checked yet.
+- Find the rule in the reference, then answer with the decision, the *why*, and the mistake to avoid. Keep it short, and quote the source tag `(src: VIDEO mm:ss)` when it helps.
+- When the player names a hero or item, map it to its role, archetype or property, apply the rule, and tell them to confirm the hero/item details on the MLBB Wiki.
+- Numbers, timers and "this category exists" claims sit in the **LIVE-DATA TO RE-VERIFY** table at the end of each reference (IDs like `L-XXX-01`). Present them as what the video claimed, not as current values; none have been re-checked yet. The table's Source column says where to check each row.
 - `⚠ conflict` / `⚠ unverified` mark open questions in the sources; mention the uncertainty if you rely on one.
 - Core macro thinking and the glossary are in the `mlbb-tactics` skill.
 
