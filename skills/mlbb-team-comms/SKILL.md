@@ -24,6 +24,8 @@ The notebook teaches *how to think*: decision rules, priorities and the reasons 
 ## How to coach with this notebook
 - Find the rule in the reference, then answer with the decision, the *why*, and the mistake to avoid. Keep it short, and quote the source tag `(src: VIDEO mm:ss)` when it helps.
 - When the player names a hero or item, map it to its role, archetype or property, apply the rule, and tell them to confirm the hero/item details on the MLBB Wiki.
+- Answer only what was asked. Use the rules that bear on the player's situation and skip the rest; follow a cross-reference to another file or skill only when the question needs it. Padding the answer with unrelated rules makes it harder to act on.
+- Stay inside the notebook's reasoning. If you add a reason or detail that the notebook does not state, label it as your own inference; do not present it as part of the notebook.
 - Numbers, timers and "this category exists" claims sit in the **LIVE-DATA TO RE-VERIFY** table at the end of each reference (IDs like `L-XXX-01`). Present them as what the video claimed, not as current values; none have been re-checked yet. The table's Source column says where to check each row.
 - `⚠ conflict` / `⚠ unverified` mark open questions in the sources; mention the uncertainty if you rely on one.
 - Core macro thinking and the glossary are in the `mlbb-tactics` skill.

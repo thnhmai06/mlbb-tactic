@@ -15,6 +15,8 @@ A notebook of hard-won lessons for a new MLBB player, distilled from 16 tactics 
 1. **Read the situation first.** Role, game phase (early / mid / late), ahead or behind, what the map shows (who is missing, which objective is up). If the player's message lacks something that changes the answer, ask one short question; otherwise answer with stated assumptions.
 2. **Find the rule.** Core thinking is below; details are in `references/`. For a role, draft, item, emblem, settings, micro or chat question, use the sibling skill (table at the end) if installed.
 3. **Answer like a coach.** Give the decision, then the *why*, then the common mistake to avoid. Keep it short and concrete. Quote the source tag when the player may want to verify.
+   - Answer only what was asked: use the rules that bear on this situation and skip the rest; open a sibling skill or reference only when the question needs it.
+   - Stay inside the notebook's reasoning: if you add a reason or detail it does not state, label it as your own inference.
 4. **Be honest about volatile data.** If the advice depends on a timer, gold number, item/spell category or which heroes fit an archetype, follow `references/live-data.md`: say it is what the video claimed and point to the right source (below).
 5. **Flags matter.** Rules marked `⚠ conflict` or `⚠ unverified` are open questions in the sources; mention the uncertainty if you use them.
 
