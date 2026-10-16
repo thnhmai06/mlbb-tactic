@@ -69,7 +69,7 @@ Data quality: hero names in the notes were whisper spellings and several duels w
 ## LIVE-DATA TO RE-VERIFY
 | ID | What the video claimed | Why it matters | What to check | Source |
 |---|---|---|---|---|
-| L-MICRO-01 | A hero that buys magic items has physical skills with mixed scaling (+60% physical attack, +40% magic power) (HID 00:30) | Illustrates scaling-based item choice | That heroes with skill-based damage-type/scaling mismatch exist; do not rely on the hero | mlbbhub / wiki |
+| L-MICRO-01 | A hero that buys magic items has physical skills with mixed physical/magic scaling (HID 00:30) | Illustrates scaling-based item choice | That heroes with a skill-based damage-type/scaling mismatch exist; do not rely on the hero | mlbbhub / wiki |
 | L-MICRO-02 | One hero's first skill gives it longer range than another's, only while the skill is ready (HID 02:25) | Illustrates cooldown-dependent range | That cooldown-dependent range advantages exist; recheck per hero pair | mlbbhub / wiki |
 | L-MICRO-03 | Power-spike examples: early-to-mid spike hero; level-2 vs level-4 duel; dash-to-mark hero limited by marks (HID 03:10–03:55) | Illustrates spike logic | Per-hero spikes and mark-dependent kits at use time | mlbbhub / wiki |
 | L-MICRO-04 | Hidden mechanics: a skill recast mid-air cancels its animation; a skill after a shot cancels the pull-back; a blink after a hook moves the hooked target; an ability waits in an input buffer until its condition is met (HID 04:25–06:25) | Section 6 | That each mechanic still works in the current patch (verify in practice mode) | mlbbhub / wiki / practice mode |

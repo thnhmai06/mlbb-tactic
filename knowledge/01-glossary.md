@@ -77,7 +77,7 @@ Scope: Definitions of the vocabulary the other topic files rely on, in match ord
 |---|---|---|---|---|
 | L-GLOSS-01 | The meta (at filming time) favours DPS heroes over burst heroes (TERM 00:30) | Meta rules in the glossary are time-bound | Whether the current meta still favours that damage style | mlbbhub (tier/meta) |
 | L-GLOSS-02 | Tanky heroes are usually also initiators; the video named three example heroes (TERM 02:06) | Role/archetype claim relies on hero kits | Only that tank-type heroes with engage skills still exist as a category | mlbbhub / wiki |
-| L-GLOSS-03 | Scaling example: +100 physical attack → 170 damage, +200 → 220 (illustrative) (TERM 03:41) | Numbers are illustrations, not rules | Nothing to rely on; treat as an example | wiki |
+| L-GLOSS-03 | Scaling example: more physical attack gives more damage for a hero that scales on it (illustrative numbers not recorded) (TERM 03:41) | Numbers are illustrations, not rules | Nothing to rely on | wiki |
 | L-GLOSS-04 | Damage types: physical, magic, adaptive, true; true ignores defence (TERM 03:53) | Draft/itemization rely on damage types | That the four damage types and their interaction with defence still hold | wiki |
 | L-GLOSS-05 | A draft with four marksmen is dodged/blocked (TERM 06:20) | Draft composition limit | Current composition restrictions per mode | mlbbhub / in-game |
 | L-GLOSS-06 | Early game = first 5 minutes; plating exists; siege minions give extra gold/exp (TERM 06:48) | Defines the early-game window | Early-game length, plating duration, siege-minion bonus | wiki |
