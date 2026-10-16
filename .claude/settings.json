@@ -1,0 +1,5 @@
+{
+  "enabledPlugins": {
+    "claude-video-vision@claude-video-vision": true
+  }
+}

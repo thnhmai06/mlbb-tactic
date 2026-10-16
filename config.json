@@ -1,0 +1,13 @@
+{
+  "allowWikiManagement": false,
+  "defaultWiki": "mobile-legends.fandom.com",
+  "wikis": {
+    "mobile-legends.fandom.com": {
+      "sitename": "MLBB Wiki",
+      "server": "https://mobile-legends.fandom.com",
+      "articlepath": "/wiki",
+      "scriptpath": "",
+      "readOnly": true
+    }
+  }
+}

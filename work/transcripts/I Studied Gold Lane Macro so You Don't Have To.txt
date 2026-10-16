@@ -1,0 +1,131 @@
+
+[00:00:00.070 --> 00:00:08.530]   I studied every game from Oheb, Skyler, and Kelra to figure out how the gold lane macro is supposed to be played.
+[00:00:08.530 --> 00:00:15.410]   But what makes this video special is that we'll start from the draft and slowly move forward until late game.
+[00:00:15.410 --> 00:00:21.870]   Turns out, gold lane macro isn't that simple because you need to adjust your draft,
+[00:00:21.870 --> 00:00:26.010]   find the best farming pattern for early, mid, and late game,
+[00:00:26.010 --> 00:00:31.240]   learn how to survive a 4-man game, how to stay alive during teamfights,
+[00:00:31.240 --> 00:00:35.380]   and avoid all the common mistakes all gold laners make.
+[00:00:35.380 --> 00:00:41.100]   The hard part? You need to adjust all that based on the hero you're using.
+[00:00:41.100 --> 00:00:45.560]   So let's start with the draft phase. It's divided into two:
+[00:00:45.560 --> 00:00:49.900]   a full 5-man party and a non-5-man party.
+[00:00:49.900 --> 00:00:55.900]   When you're in a full 5-man party, you should pick based on your team's composition.
+[00:00:55.900 --> 00:01:01.140]   But the problem is, your team mates might not understand the theory behind it.
+[00:01:01.140 --> 00:01:03.140]   So just follow this guide.
+[00:01:03.140 --> 00:01:08.280]   If your team has a lot of ranged heroes, you're playing a poke camp.
+[00:01:08.280 --> 00:01:13.200]   So pick gold laners with long range like Layla, Granger, or Leslie.
+[00:01:13.200 --> 00:01:20.130]   If your team has two or three tanky heroes, that means it's a front-to-back camp position.
+[00:01:20.130 --> 00:01:25.370]   Pick gold laner with high DPS like Nathan, Wanwan, or Moskov.
+[00:01:25.370 --> 00:01:30.520]   But if your team has dive-type heroes, you're running a dive camp.
+[00:01:30.520 --> 00:01:35.520]   So pick mobile gold laners like Irithel, Harith, or Cloud.
+[00:01:35.520 --> 00:01:39.520]   When you're not in a 5-man party, your draft depends on your rank.
+[00:01:39.520 --> 00:01:46.760]   If you're Mythic AD or above, you must fill your teammate's weaknesses using the theory we discussed earlier.
+[00:01:46.760 --> 00:01:51.760]   But be careful, don't pick heroes that rely heavily on communication.
+[00:01:51.760 --> 00:01:57.000]   Like Zuxin, the Freya-Digi combo, or the Hi-Loss-Ixia combo.
+[00:01:57.000 --> 00:02:00.000]   For example, look at this draft.
+[00:02:00.000 --> 00:02:06.000]   Benedetta XP lane, Yi Sun-Shin jungle, Hi-Loss roam, and Kimi mid lane.
+[00:02:06.000 --> 00:02:11.240]   If you pick a marksman, your team will be too squishy.
+[00:02:11.240 --> 00:02:15.530]   So it's better to pick a fighter gold laner like Ruby.
+[00:02:15.530 --> 00:02:23.990]   This rule only applies to Mythic AD and above, where your gold laner doesn't have to be a marksman or mage.
+[00:02:23.990 --> 00:02:27.930]   If you're below that, pick a hero that can carry.
+[00:02:27.930 --> 00:02:30.170]   It's not just your damage type.
+[00:02:30.170 --> 00:02:36.170]   When your team already has a lot of magic heroes, pick physical and vice versa.
+[00:02:36.170 --> 00:02:39.890]   It's better to think of the game as 1 vs 9.
+[00:02:39.890 --> 00:02:43.300]   So make sure your hero can carry on its own.
+[00:02:43.300 --> 00:02:48.270]   Once you've picked your hero, immediately check the enemy gold laner.
+[00:02:48.270 --> 00:02:51.440]   Compare it to yours to choose the right emblem.
+[00:02:51.440 --> 00:02:53.560]   There are two possibilities.
+[00:02:53.560 --> 00:02:57.920]   If you're weaker in the early game, choose a defensive emblem.
+[00:02:57.920 --> 00:03:02.660]   Switch your marksman emblem to the common emblem with quantum charge.
+[00:03:02.660 --> 00:03:12.350]   But if it's even or you have the early game advantage, go with the marksman, assassin, or mage emblem depending on your hero.
+[00:03:12.350 --> 00:03:14.140]   Wait, hold on.
+[00:03:14.140 --> 00:03:18.290]   All of that depends on a hero's power spike, right?
+[00:03:18.290 --> 00:03:22.950]   So how do we actually determine the power spike for each hero?
+[00:03:22.950 --> 00:03:28.080]   Even though you'll have to understand every gold laner, this guide is
+[00:03:28.080 --> 00:03:29.760]   perfect for beginners.
+[00:03:29.760 --> 00:03:34.450]   There are gold laners that are strong in early, mid, or late game.
+[00:03:34.450 --> 00:03:38.210]   Keep in mind, this is just a beginner's guide.
+[00:03:38.210 --> 00:03:42.650]   So the more you play, you'll understand Ichiro's details.
+[00:03:42.650 --> 00:03:44.850]   With that, you'll understand drafting.
+[00:03:44.850 --> 00:03:49.570]   Sadly, it'll all be useless if you don't know how to play.
+[00:03:49.570 --> 00:03:54.830]   In the early game, your job is to farm while harassing your lane opponent.
+[00:03:54.830 --> 00:03:58.780]   To stay safe, you must understand the lane zones.
+[00:03:58.780 --> 00:04:02.340]   There's a safe, neutral, and dangerous zone.
+[00:04:02.340 --> 00:04:04.320]   Always check the minimap.
+[00:04:04.320 --> 00:04:08.370]   And keep track of the enemy's mid, roamer, and jungler.
+[00:04:08.370 --> 00:04:12.130]   If one of them disappears, move to the neutral zone.
+[00:04:12.130 --> 00:04:15.330]   If two disappear, fall back to the safe zone.
+[00:04:15.330 --> 00:04:20.250]   One common mistake players make is joining lethal wanderer fights.
+[00:04:20.250 --> 00:04:24.690]   That's your mid, jungler, and roamer's job, not yours.
+[00:04:24.690 --> 00:04:27.900]   Just focus on farming and harassing your lane.
+[00:04:27.900 --> 00:04:35.290]   But the most important thing when you're in a 1v1 fight against your opponent is knowing when to fight or fly.
+[00:04:35.290 --> 00:04:38.910]   Which means you must know these three conditions.
+[00:04:38.910 --> 00:04:44.800]   If your hero is stronger in the early game, freeze the minions and zone your opponent.
+[00:04:44.800 --> 00:04:47.870]   So they can't reach the XP area.
+[00:04:47.870 --> 00:04:53.310]   Which is the area where they gain gold and XP when your minions die.
+[00:04:53.310 --> 00:04:57.340]   By zoning them out, they'll get low gold and XP.
+[00:04:57.340 --> 00:04:59.770]   But don't overextend.
+[00:04:59.770 --> 00:05:05.820]   Always check the enemy mid, jungler, and roamer's position and keep good positioning.
+[00:05:05.820 --> 00:05:10.080]   If that's so, what if you're the one with the disadvantage?
+[00:05:10.080 --> 00:05:12.160]   You need to play safely.
+[00:05:12.160 --> 00:05:15.330]   Farm as much as you can in the safe zone.
+[00:05:15.330 --> 00:05:18.270]   It's better to miss a last hit than die.
+[00:05:18.270 --> 00:05:20.800]   However, what if it's even?
+[00:05:20.800 --> 00:05:24.610]   First, farm and poke the enemy as much as possible.
+[00:05:24.610 --> 00:05:32.130]   If the enemy mid, jungler, or roamer is visible and your opponent's HP is low, go for the kill.
+[00:05:32.130 --> 00:05:36.480]   If the lane stays even, wait for your team to gank.
+[00:05:36.480 --> 00:05:41.700]   The key to a successful gank is to freeze the wave near your turret.
+[00:05:41.700 --> 00:05:46.590]   Still, your hero won't matter if you're ganked by 4 people.
+[00:05:46.590 --> 00:05:49.250]   To avoid that, watch the minimap.
+[00:05:49.250 --> 00:05:56.800]   If the enemy mid, jungler, and roamer disappears for too long, fall back to your inner turret.
+[00:05:56.800 --> 00:06:01.940]   The biggest mistake you can make here is to try to defend your turret.
+[00:06:01.940 --> 00:06:08.030]   Just let them take the plating or even the turret itself, as long as you stay alive.
+[00:06:08.030 --> 00:06:11.260]   The same logic applies for the first turtle.
+[00:06:11.260 --> 00:06:13.420]   You don't need to join the fight.
+[00:06:13.420 --> 00:06:14.880]   Stay safe in lane.
+[00:06:14.880 --> 00:06:22.390]   The only time you should help the first turtle is when you can participate without missing minions.
+[00:06:22.390 --> 00:06:27.830]   Like when Chip teleports you there or if you're using Moskov and can't use his ult.
+[00:06:27.830 --> 00:06:33.830]   But the second turtle is different because it can spawn in either gold or xp lane.
+[00:06:33.830 --> 00:06:37.110]   If it spawns in gold lane, you must help.
+[00:06:37.110 --> 00:06:40.130]   So don't die before the turtle spawns.
+[00:06:40.130 --> 00:06:43.520]   Clear your minions and move safely toward it.
+[00:06:43.520 --> 00:06:50.760]   Your job is to deal as much damage as possible to the turtle or enemies while staying alive.
+[00:06:50.760 --> 00:06:55.710]   If it spawns in xp lane, refer back to the power spike guide.
+[00:06:55.710 --> 00:06:59.460]   If your hero is strong early, you can't help.
+[00:06:59.460 --> 00:07:01.950]   But only after pushing your wave.
+[00:07:01.950 --> 00:07:07.570]   If the enemy zones you so you can't push, skip the turtle and just farm.
+[00:07:07.570 --> 00:07:12.090]   If your hero is strong late game, don't help with the turtle.
+[00:07:12.090 --> 00:07:14.080]   Just push your lane instead.
+[00:07:14.080 --> 00:07:15.330]   Be careful.
+[00:07:15.330 --> 00:07:19.970]   One fatal mistake is overextending and getting solo kill.
+[00:07:19.970 --> 00:07:26.610]   If that happens and your team loses to turtle, they'll get tilted and the game will go very bad.
+[00:07:26.610 --> 00:07:29.790]   So your priority is to stay alive.
+[00:07:29.790 --> 00:07:33.520]   By now you've mastered gameplay up to minute 5.
+[00:07:33.520 --> 00:07:36.990]   But in early game, you're just farming in the gold lane.
+[00:07:36.990 --> 00:07:41.630]   It's different from the mid game when you'll have to start rotating.
+[00:07:41.630 --> 00:07:46.630]   Your goal is actually still the same, to get as much gold as possible.
+[00:07:46.630 --> 00:07:49.090]   But now, you have 2 options.
+[00:07:49.090 --> 00:07:57.710]   If your hero has mobility, like Moskov, Cloud, or Wanwan, you can split push outer turrets that are still standing.
+[00:07:57.710 --> 00:08:01.620]   If that's not possible, your task is to farm in lane.
+[00:08:01.620 --> 00:08:06.750]   The best lane to take is mid, because minions reach the center faster.
+[00:08:06.750 --> 00:08:13.690]   But if your mid laner doesn't let you, pick whichever lane that still has its outer turret intact.
+[00:08:13.690 --> 00:08:17.990]   The key difference in mid game is the third turtle.
+[00:08:17.990 --> 00:08:21.430]   You must help take it, so follow these rules.
+[00:08:21.430 --> 00:08:23.740]   Don't hit turtle without your younger.
+[00:08:23.740 --> 00:08:27.080]   Don't show up on the map before turtle spawns.
+[00:08:27.080 --> 00:08:29.720]   Don't stay in a far lane before the fight.
+[00:08:29.720 --> 00:08:34.140]   And don't take the buff when your team is already ready for war.
+[00:08:34.140 --> 00:08:36.330]   The mid game is critical.
+[00:08:36.330 --> 00:08:42.170]   But everything you've worked for will mean nothing if you don't understand the late game.
+[00:08:42.170 --> 00:08:45.450]   In late game, gold lane macro is simple.
+[00:08:45.450 --> 00:08:50.880]   Just clear waves on pushing lanes and catch enemy minion waves.
+[00:08:50.880 --> 00:08:57.890]   But as a gold laner, the most important rule is to never walk into the fog of war alone.
+[00:08:57.890 --> 00:08:58.800]   You'll get ambushed.
+[00:08:58.800 --> 00:09:01.520]   Always stay close to your team.
+[00:09:01.520 --> 00:09:06.860]   Your job is to survive until the team fight, because that's when you shine.
+[00:09:06.860 --> 00:09:10.700]   In the fight, your job is not to dive or pick up enemies.
+[00:09:10.700 --> 00:09:17.430]   Rather, to deal as much consistent damage as possible from a safe position, even if it's
+[00:09:17.430 --> 00:09:19.130]   hitting tanks or fighters.
+[00:09:19.130 --> 00:09:24.840]   And if you see a chance to target enemy damage dealers, make sure to capitalize on it.
+[00:09:24.840 --> 00:09:31.940]   This video took a long time to make, but it is only one out of many macro tutorials in this channel.
+[00:09:31.940 --> 00:09:36.580]   So become a YouTube member to get early access to future videos.
+[00:09:36.580 --> 00:09:41.140]   And if you love this one, you'll definitely love this video too.

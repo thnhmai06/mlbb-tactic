@@ -1,0 +1,63 @@
+
+[00:00:00.160 --> 00:00:25.850]   I watched every loot piece, Edwards, and Sand vs games to figure out how the best exp laner's macros really look like. But I was genuinely surprised. Because I finally found the answers to how to pick heroes and counterpick properly, exp laner responsibilities in the early, mid, and late game, tricks to win 1v1s, and how to survive the late game without easily dying.
+[00:00:25.850 --> 00:00:32.390]   The problem is, all of this depends on the hero you're using. So let's start with drafting.
+[00:00:32.810 --> 00:00:40.920]   Exp heroes can be divided into 2 types. Damage dealing and tanky exp laner's. But which one should you pick?
+[00:00:41.400 --> 00:00:52.040]   If your jungler and roamer are tanky heroes, pick damage dealing exp laner's like Benedetta, Guinevere, and Arlot. But if your team does not have a tanky hero,
+[00:00:52.040 --> 00:01:00.780]   pick tanky exp laner's like Uranus, Alice, and Terizla. Wait, what if your team only has one tanky hero?
+[00:01:00.780 --> 00:01:13.280]   The key is, don't pick a damage dealing exp laner. You can pick a tanky hero, or heroes that sit between tanky and damage, like Yuzhong, Lapu-Lapu, and Chichi.
+[00:01:13.280 --> 00:01:22.690]   To make it clearer, here's the complete list. Even if you know which hero to pick, the order you pick them is even more important.
+[00:01:22.690 --> 00:01:39.440]   If there's an OP hero that isn't banned, you must first pick that hero. If not, use this rule. When playing a damage dealing exp laner, never first pick. Because you're a damage dealer, your hero must counter the enemy.
+[00:01:39.440 --> 00:01:55.310]   I'll teach you how to counterpick later. For now, don't forget to adjust your damage type. If your team already has a lot of magic damage, pick a physical hero and vice versa. But when playing a tanky exp laner, you must first pick.
+[00:01:55.310 --> 00:02:09.780]   You need to request pick priority so your damage dealers can counterpick the enemy. But how do we actually counterpick correctly? Counterpicking means choosing a hero specifically to counter the enemy hero.
+[00:02:09.870 --> 00:02:20.860]   For example, Uranus is strong because of his sustain from his passive and items. So heroes with lots of true damage like X-Borg are very strong against him.
+[00:02:20.860 --> 00:02:33.790]   X-Borg is strong because of his damage, but he is extremely vulnerable to burst and very weak in lane. That's why burst heroes like Benedetta are very strong against X-Borg.
+[00:02:33.790 --> 00:02:44.810]   Benedetta is strong because of her burst and mobility. Unfortunately, all her skills are dashes. As a result, she becomes useless when facing Mincetar.
+[00:02:44.810 --> 00:02:53.560]   After understanding how to pick heroes, you need to understand how to play the early game. It's divided into 3 phases.
+[00:02:53.560 --> 00:03:03.670]   Laning, first turtle, laning, second turtle. All of them are extremely important because they affect your mid and late game.
+[00:03:03.670 --> 00:03:10.930]   Sadly, there's one fatal mistake that exp laners often make, which is damaging minions.
+[00:03:10.930 --> 00:03:17.850]   Because when laning, there are 3 techniques you must understand. We'll start with fast clear.
+[00:03:17.850 --> 00:03:28.600]   Fast clearing means clearing all minions as quickly as possible. This is very good before turtle spawn or rotating, so you don't miss minions.
+[00:03:28.600 --> 00:03:36.200]   The downside is that fast clear makes you very vulnerable to lane freezes, so don't use it too often.
+[00:03:36.200 --> 00:03:44.530]   It's different from freeze, which you'll use the most. Freezing means keeping the minion wave stationary in one spot.
+[00:03:44.530 --> 00:03:52.270]   This is very strong when the wave is close to you, since it forces the enemy into a dangerous position.
+[00:03:52.270 --> 00:03:59.820]   The concept is very simple. If your minions outnumber the enemies, the wave will slowly push forward.
+[00:03:59.820 --> 00:04:04.800]   But if the enemy minions outnumber yours, the wave will move backward.
+[00:04:04.800 --> 00:04:10.430]   So to keep the wave frozen, make sure both sides have equal minions.
+[00:04:10.430 --> 00:04:17.890]   Freezing is extremely dangerous when the wave is near the enemy. We'll talk about how to break out of a freeze later.
+[00:04:17.890 --> 00:04:25.600]   For now, let's move on to cutting a lane. Cutting a lane means clearing enemy minions before they meet yours.
+[00:04:25.600 --> 00:04:34.380]   This allows you to rotate without losing minions. However, cutting lane is extremely dangerous and should never be done carelessly.
+[00:04:34.380 --> 00:04:39.420]   Always make sure that you know the enemy jungler's location before doing it.
+[00:04:39.420 --> 00:04:47.130]   As an exp laner, one mandatory skill you must learn is how to break a freeze. The concept is simple.
+[00:04:47.130 --> 00:04:58.400]   Either you push your minions until the enemy turret clears them so the wave resets to the middle, or force the enemy to clear your minions so the wave moves back.
+[00:04:58.400 --> 00:05:07.890]   A trick most people don't know is standing near your cannon minions. If the enemy attacks you, their minions will also hit you.
+[00:05:07.890 --> 00:05:17.040]   Over time, the wave will move backward. The most important rule here is if the enemy doesn't attack you, you don't attack them.
+[00:05:17.040 --> 00:05:28.560]   Just stand still and enjoy the enemy minions. Okay, you now understand how to control minions. But in lane, there's also the enemy hero and the crab.
+[00:05:28.560 --> 00:05:36.610]   So what's the key to winning a 1v1? And actually, how important is the crab? Let's start simple.
+[00:05:36.610 --> 00:05:45.290]   One crab is equal to one cannon minion. If you secure it, you can reach level 4 faster than the enemy exp laner.
+[00:05:45.290 --> 00:05:52.960]   Which lets you arrive at turtle earlier than your opponent. The enemy is forced into two bad options.
+[00:05:52.960 --> 00:05:58.880]   Either clear the minions and arrive late, or come to turtle at level 3.
+[00:05:58.880 --> 00:06:08.030]   Now, let's get to the most interesting part. How do you actually win 1v1s? The key is your mechanics.
+[00:06:08.030 --> 00:06:15.720]   But this video is about macro, right? Don't worry. There's one key concept that guarantees you to win 1v1s.
+[00:06:15.720 --> 00:06:23.400]   It's called power spike. Some heroes are strong in the early, mid, or late game. You must understand the matchup
+[00:06:23.400 --> 00:06:29.450]   between your hero and the enemy. Because with equal mechanics, the player with the right matchup will
+[00:06:29.450 --> 00:06:36.500]   always win. We've almost gone through the entire early game. But the most important part is the first and
+[00:06:36.500 --> 00:06:44.190]   second turtle. During turtle fights, your main job is to zone the enemy jungler. First, never arrive late.
+[00:06:44.190 --> 00:06:52.300]   Get there before your jungler by cutting the wave or fast clearing. Hide in this bush. If the enemy mid or
+[00:06:52.300 --> 00:06:58.840]   jungler appears, immediately attack them. Don't give the enemy jungler any freedom. Harass them as
+[00:06:58.840 --> 00:07:05.440]   aggressively as possible. Your main goal here is to make it hard for the enemy jungler to use retribution.
+[00:07:05.440 --> 00:07:12.290]   The early game is when you 1v1 the enemy. It's completely different from the mid game where fights
+[00:07:12.290 --> 00:07:19.090]   and rotations begin. But what should we actually do in a team fight? Well, to fight properly, you must
+[00:07:19.090 --> 00:07:25.970]   prepare a priority list. Look at the enemy damage dealers and rank them based on who has the most completed
+[00:07:25.970 --> 00:07:34.000]   items. Focus on that target and dump all your skills on them. Ignore everything else. Your job is to make sure that
+[00:07:34.000 --> 00:07:41.740]   the enemy damage dealers struggle. By now, you understand how to play up until minute 8. Now it's time for the
+[00:07:41.740 --> 00:07:49.780]   deciding phase, the late game. Your main tasks here are opening the map and managing minions. But which parts
+[00:07:49.780 --> 00:07:56.410]   of the map should you open? Which bushes matter? And how do you manage minions properly?
+[00:07:56.410 --> 00:08:03.990]   The key to opening the map is never doing it alone. If you get caught, the enemy will instantly take the
+[00:08:03.990 --> 00:08:11.070]   lord and you'll lose the game. These are the most important bushes to control. Make sure you memorize them.
+[00:08:11.070 --> 00:08:18.420]   Before opening the map, always make sure your minion waves are optimal. Always clear the lane farthest from
+[00:08:18.420 --> 00:08:27.340]   the lord. Here's the trick. If the minion waves are even, don't do a full clear. Leave 1 cannon minion so the lane
+[00:08:27.340 --> 00:08:35.330]   slow pushes. If the enemy marksmen or mage is offside, don't hesitate. Go all in and eliminate them.
+[00:08:35.330 --> 00:08:41.670]   The biggest difference in late game is how you team fight. Because enemies hit much harder now, you can
+[00:08:41.670 --> 00:08:49.410]   engage carelessly. Flank from the side and prioritize the enemy marksmen. This video took a long time to
+[00:08:49.410 --> 00:08:56.830]   make. But this is just one out of many macro tutorials on this channel. So join the membership to get early
+[00:08:56.830 --> 00:09:03.910]   access to future videos. And if you enjoyed this video, you'll definitely love this video too.

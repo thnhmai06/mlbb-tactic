@@ -1,0 +1,67 @@
+
+[00:00:00.130 --> 00:00:30.320]   this is lolita the ultimate tank who can take a beating but instead of tank items this lolita buys healing items the crazy part is this build is used by the world's number one roamer ogwen you won't find this build anywhere else because ogwen made it himself that's why i spent the last 30 days watching every single mpl match from indonesia to the philippines just to learn how pro players create their own builds but along the way i uncovered
+[00:00:30.320 --> 00:01:00.600]   the secrets behind famous builds like tank lancelot magic bane and sustained julian so let's start with the basics a build has two parts core items and situational items core items are the ones you should buy in every single game no matter what your team or the enemy team is doing situational items on the other hand are bought based on specific conditions to figure out your core items you first need to understand
+[00:01:00.600 --> 00:01:07.910]   and the two types of damage physical and magic if you're using a physical hero you need to ask does
+[00:01:07.910 --> 00:01:15.550]   your hero deal damage through basic attacks or skills here's how to tell if your skills boost your basic
+[00:01:15.550 --> 00:01:23.220]   attacks then you're playing a basic attack hero and that splits into two types for physical basic
+[00:01:23.220 --> 00:01:30.840]   attack crit heroes like mia bruno and irithel you'll need items that give critical chance and critical
+[00:01:30.840 --> 00:01:38.270]   damage out of the four crit items in the game berserker's fury has his claws and windtalker are must
+[00:01:38.270 --> 00:01:45.580]   haves but you need to buy them in the right order has his claws should be your second item because it gives
+[00:01:45.580 --> 00:01:53.970]   you sustain in the early game if your goal is to farm fast buy windtalker third and berserkers fourth but if
+[00:01:53.970 --> 00:02:01.280]   you're ahead and want to focus on team fights get berserker's third and buy windtalker when needed it
+[00:02:01.280 --> 00:02:08.640]   can be bought fourth fifth or even in place of your boots there is one more crit item called great dragon
+[00:02:08.640 --> 00:02:15.560]   spear it gives you movement speed while your alt is active so it works really well on irithel mia and
+[00:02:15.560 --> 00:02:23.240]   leila now for physical basic attack attack speed heroes like carry cloud and hanabi you'll need
+[00:02:23.240 --> 00:02:32.190]   attack speed and on hit items but what does on hit actually mean an on hit item gives an extra effect
+[00:02:32.190 --> 00:02:39.230]   every time your basic attack hits like corrosion site which slows enemies demon hunter sword which deals
+[00:02:39.230 --> 00:02:46.980]   bonus damage based on the enemy's hp and golden staff which triples all on hit effects all three are
+[00:02:46.980 --> 00:02:54.460]   mandatory for attack speed heroes but their order really matters to maximize its passive golden staff
+[00:02:54.460 --> 00:03:01.420]   should always be your last item if the enemy has a lot of hp like a fighter gold laner or a tank
+[00:03:01.420 --> 00:03:10.400]   roamer start with dhs if not go with corrosion first after physical basic attack heroes we move on to
+[00:03:10.400 --> 00:03:18.080]   physical skill heroes which are also split into two types for sustained heroes like yujong alpha and
+[00:03:18.080 --> 00:03:25.160]   lapu-lapu you need items that give cooldown reduction and sustain like thunder belt war axe
+[00:03:25.160 --> 00:03:31.630]   queen wings and oracle here's the order if you're playing a hero that fights a lot in lane
+[00:03:31.630 --> 00:03:40.110]   like lucas ruby or lapu-lapu buy thunder belt second to maximize its stacks then get war axe for
+[00:03:40.110 --> 00:03:47.630]   sustain and oracle to boost war axe's healing but if you're still getting bursted swap war axe
+[00:03:47.630 --> 00:03:54.990]   with queen wings if you're using junglers or heroes that rarely brawl early like alucard alpha or
+[00:03:54.990 --> 00:04:06.500]   bellman go with war axe's healing but now for physical skill burst heroes like pakito clint and fanny you'll
+[00:04:06.500 --> 00:04:14.530]   need to dig a little deeper does your hero deal damage purely through skills or also weave in basic
+[00:04:14.530 --> 00:04:22.940]   attacks if your hero relies only on skills start with fury hammer for penetration if you're snowballing and
+[00:04:22.940 --> 00:04:30.820]   your team doesn't have a sky piercer pick it up next then upgrade the fury hammer into hunter strike and
+[00:04:30.820 --> 00:04:38.020]   finish with blade of despair if you're weaving in basic attacks like fanny clint and lancelot the build
+[00:04:38.020 --> 00:04:46.360]   stays mostly the same with one addition heptasis it gives bonus burst damage to your basic attacks you can
+[00:04:46.360 --> 00:04:54.210]   buy heptasis before hunter strike or even replace the hunter strike all together with that you've got
+[00:04:54.210 --> 00:05:02.170]   the core items figured out for physical heroes now let's move on to magic heroes for dps mages like
+[00:05:02.170 --> 00:05:10.520]   cecilion lilia and savior you need items that give magic damage and cooldown reduction like enchanted talisman
+[00:05:10.520 --> 00:05:19.600]   and glowing one if your hero needs a lot of cooldown like luoyi savior and cyclops get cooldown boots or
+[00:05:19.600 --> 00:05:28.580]   magic penetration boots then go for enchanted talisman and glowing one if you need more mana but not a lot of
+[00:05:28.580 --> 00:05:34.580]   cooldown like a lot of cooldown like lunox cecilion and chengi buy mana boots and glowing one
+[00:05:35.040 --> 00:05:41.300]   there's one exception though harrid since he alternates between basic attacks and skills
+[00:05:41.300 --> 00:05:47.840]   he doesn't rely heavily on mana he needs high damage items that synergize with his kit
+[00:05:47.840 --> 00:05:56.670]   like starlium sight and feather of heaven for control mages like valir eve and zuxin you need items that can
+[00:05:56.670 --> 00:06:05.660]   destroy the enemy like glowing one and ice queen one but for burst mages like kagura eve and zuxin you need
+[00:06:05.660 --> 00:06:13.020]   items that deal the highest burst damage possible like sky piercer lighting crunchion and holy crystal
+[00:06:13.020 --> 00:06:22.310]   be careful sky piercer is optional only buy it as your second item if and only if no one on your team
+[00:06:22.310 --> 00:06:29.040]   already has it for sustained mages like guinevere julian and esmeralda the build is very similar to
+[00:06:29.040 --> 00:06:36.960]   physical sustained heroes but instead of war axe and queen wings you buy concentrated energy with that
+[00:06:36.960 --> 00:06:44.780]   you now know how to buy core items for every damage dealing hero but if you're playing a tank you need to
+[00:06:44.780 --> 00:06:53.650]   dig even deeper for defensive tanks like tyguil atlas and kufra every item is situational you need to check
+[00:06:53.650 --> 00:07:00.620]   the enemy's main damage source and prioritize the heroes you'll face the most so let's break down
+[00:07:00.620 --> 00:07:07.260]   every type of damage source in the game and how to counter them one by one to counter physical basic
+[00:07:07.260 --> 00:07:15.060]   attack critical heroes buy steel leg plate and upgrade to blade armor to counter physical basic attack attack
+[00:07:15.060 --> 00:07:24.000]   attack speed heroes buy black ice shield and upgrade to dominance ice to counter physical skill burst
+[00:07:24.000 --> 00:07:33.760]   heroes buy dreadnought armor and upgrade to dominance ice to counter physical skill sustain heroes buy black ice
+[00:07:33.760 --> 00:07:40.600]   shield and upgrade to shield shield and upgrade to dominance ice to counter dps mages buy silence roam
+[00:07:40.600 --> 00:07:49.280]   and upgrade to radiant armor to counter control mages buy silence roam and upgrade to radiant armor to
+[00:07:49.280 --> 00:07:58.840]   counter burst mages buy silence roam but upgrade to athena's shield to counter sustain mages well you'll just have to
+[00:07:58.840 --> 00:08:05.730]   play if you're playing offensive tanks like ghatot kacha khalid and daxia you have two options
+[00:08:05.730 --> 00:08:13.570]   thunder belt if you fight often or cursed helmet if you like staying close to enemies the rest is situational
+[00:08:13.570 --> 00:08:21.640]   with that you'll be able to determine which damage source needs which item but how can you actually tell
+[00:08:21.640 --> 00:08:30.610]   which hero has which damage source to do that you need to look at their scaling a hero scaling is how much
+[00:08:30.610 --> 00:08:38.530]   their power increases based on a specific stat for example julian's passive deals more damage the higher
+[00:08:38.530 --> 00:08:47.920]   his physical attack so julian's passive scales with physical attack or lolita shield gets bigger the higher her
+[00:08:47.920 --> 00:08:56.150]   magic power so her shield scales with magic power once you know that all you have to do is check your skills
+[00:08:56.150 --> 00:09:03.460]   and see what's that they scale with that is the secret behind weird medas like tank lancelot magic
+[00:09:03.460 --> 00:09:12.010]   damage bane and sustain julian so after everything we've gone through you'll now be able to construct your core
+[00:09:12.010 --> 00:09:22.160]   items yes just the core items this video is already long enough as it is so while waiting for part two i'm sure
+[00:09:22.160 --> 00:09:23.970]   you'll love this video too

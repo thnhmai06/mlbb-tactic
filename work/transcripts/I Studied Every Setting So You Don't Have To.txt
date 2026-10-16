@@ -1,0 +1,61 @@
+
+[00:00:00.160 --> 00:00:28.660]   This is Saber right before his ultimate. But instead of ulting the mage, he ults the tank. You know why? He just had the wrong settings. Because there are settings that must be turned on, the ones that are only meant for certain heroes and the ones that can literally kasu the game. I've spent the last 30 days studying every single detail and will go through them step by step so you can follow along. But honestly, I was shocked.
+[00:00:28.660 --> 00:00:57.700]   There's a setting that makes fanny players slow, marksman players move back and forth aimlessly, and assassin players end up diving tanks. Turns out, we have to start with the targeting method. It's divided into 3. In free mode, you only get 1 button. Luckily, in advanced mode, you get 2 extra buttons. A tower button that only hits turrets, and a minion button that hits minions. Be careful, the tower button can't attack
+[00:00:57.700 --> 00:01:04.640]   enemies while the minion button will attack heroes if no minions are nearby. But then there's the lock
+[00:01:04.640 --> 00:01:10.620]   mode. There's a hero button that switches selected enemy heroes and a minion button that switches
+[00:01:10.620 --> 00:01:17.640]   selected minions. After watching dozens of pro player live streams, I realized they all use the
+[00:01:17.640 --> 00:01:23.960]   advanced mode because it's way better when combined with another setting. Sounds simple,
+[00:01:23.960 --> 00:01:30.610]   right? Unfortunately, targeting priority isn't that simple because the best choice depends on your
+[00:01:30.610 --> 00:01:37.860]   hero type. Lowest HP percentage will target the enemy with the lowest HP percentage. In this case,
+[00:01:38.080 --> 00:01:44.720]   you'd attack Yuzhong since his HP percentage is the lowest. If you choose lowest HP, you'll attack
+[00:01:44.720 --> 00:01:52.170]   Wanwan because she has the least HP. But if you choose nearest target, HP doesn't matter. You'll
+[00:01:52.170 --> 00:01:59.060]   always attack the closest enemy. If you're playing a marksman or a DPS mage, choose nearest target so
+[00:01:59.060 --> 00:02:04.700]   you can keep your distance from the enemy. If you're playing a burst mage, assassin, or fighter,
+[00:02:05.140 --> 00:02:11.890]   choose lowest HP so you can finish off low HP enemies. But if you're playing a tank or support,
+[00:02:12.300 --> 00:02:18.290]   you're free to choose either mode. All those targeting methods get overridden when you use
+[00:02:18.290 --> 00:02:25.390]   hero lock. Which brings up the hero button. Once you press it, all your attacks will lock onto that hero.
+[00:02:25.390 --> 00:02:32.950]   Ever had trouble fighting sun? With this setting on, your attacks will always target the real sun.
+[00:02:32.950 --> 00:02:39.170]   That's why this setting is a must. Think about this. Have you ever used saber and alter the rock?
+[00:02:39.170 --> 00:02:47.260]   Use Roger to claw a tank? Or use Cho to kick a tank? That's not because you're bad. It's because of the
+[00:02:47.260 --> 00:02:54.830]   accurate indicator setting. When enabled, single target skills can be aimed more precisely. This setting is
+[00:02:54.830 --> 00:03:01.830]   also a must. It's different from Elim Panning, which can actually mess you up. When enabled,
+[00:03:01.830 --> 00:03:08.740]   the camera shifts whenever you use a long range skill. While it's useful for heroes like Franco,
+[00:03:08.740 --> 00:03:15.700]   Layla and Ovaria, this setting will make your camera shake if you spam skills often. Like Fanny's second
+[00:03:15.700 --> 00:03:22.380]   skill or Granger's ultimate. That will make Fanny players slow and Granger players struggle to kite.
+[00:03:22.380 --> 00:03:29.070]   When you tap Granger's ultimate, the bullets will fire based on your analog direction. But there is
+[00:03:29.070 --> 00:03:37.980]   Assistant Aiming Mode. If it's enabled, your skills will auto-aim. Sadly, the auto-aim is terrible, so just turn it off.
+[00:03:37.980 --> 00:03:45.350]   Look, every hero has an attack range. But what few people know is that they also have a chase range.
+[00:03:45.350 --> 00:03:53.850]   If a higher priority target is outside your attack range but still within chase range, your hero will ignore
+[00:03:53.850 --> 00:04:01.130]   nearby targets and chase that one instead. But the Moving Pursuit setting makes you chase enemies even
+[00:04:01.130 --> 00:04:07.830]   while retreating. That's why your marksman keeps running back and forth. Still, this setting can be
+[00:04:07.830 --> 00:04:14.010]   really strong when combined with another setting we'll talk about later. Remember the targeting methods we
+[00:04:14.010 --> 00:04:20.930]   discussed earlier? All of those gets ignored if you use Close Pursuit. Check this out. Normally,
+[00:04:20.930 --> 00:04:27.840]   you'd attack Miya. But with Close Pursuit enabled, you'll attack the monster instead since it's closer.
+[00:04:27.840 --> 00:04:34.150]   Be careful. This setting can make you hit the wrong target during a teamfight, so it's better to just
+[00:04:34.150 --> 00:04:40.350]   turn it off. When you move your joystick, your hero won't stop unless you release it. That is if you
+[00:04:40.350 --> 00:04:46.990]   disabled the joystick dead zone setting. When it's on, you can stop moving by sliding the joystick back
+[00:04:46.990 --> 00:04:51.360]   to the center. This setting isn't really important. Imagine this.
+[00:04:51.510 --> 00:04:58.410]   There's an enemy hero, a jungle monster, and a minion all at the same distance. If you do a basic attack,
+[00:04:58.410 --> 00:05:06.980]   who do you hit? Mobile Legends prioritizes enemy heroes first, then jungler monsters and minions last.
+[00:05:06.980 --> 00:05:14.340]   But if you enable active creeps filter, the priority changes to enemy heroes, then jungle monsters that are
+[00:05:14.340 --> 00:05:21.140]   attacking followed by idle jungle monsters and finally minions. This setting isn't very useful.
+[00:05:21.140 --> 00:05:29.300]   This is your skill button. If you tap it slightly off, the skill will still trigger. But the joystick position
+[00:05:29.300 --> 00:05:36.700]   will appear in the middle of the skill area, not where you tap. That's because your skill joystick position
+[00:05:36.700 --> 00:05:44.480]   is set to fix. If you change it to tap position, the joystick will appear exactly where you tap the skill.
+[00:05:44.480 --> 00:05:51.220]   This one's up to you. Advanced targeting method and moving pursuit work really well when combined with
+[00:05:51.220 --> 00:05:57.920]   basic attack smart targeting. But there are three options. Lock on targeting lets you pick a basic attack
+[00:05:57.920 --> 00:06:04.960]   target. Once selected, every basic attack will stay locked onto that target. Unlike manual targeting,
+[00:06:04.960 --> 00:06:11.310]   which doesn't lock. You'll have to aim every single basic attack yourself, and you can also turn this
+[00:06:11.310 --> 00:06:18.200]   feature off. Out of the three, the best option is lock targeting. Especially for heroes that rely on
+[00:06:18.200 --> 00:06:24.720]   locking with basic attacks like Roger, Hanzo, and every marksman. The range of basic attack smart
+[00:06:24.720 --> 00:06:31.200]   targeting can be adjusted with the attack activation distance setting. Fixed position based on range
+[00:06:31.200 --> 00:06:37.240]   locks onto enemies within basic attack range. Close range does the same but also chases targets
+[00:06:37.240 --> 00:06:44.470]   slightly outside it. And Distant range targets as far as possible. The best choice is distance. All of
+[00:06:44.470 --> 00:06:50.980]   the settings we've covered so far will be useless if you mess up these next ones. Auto skill upgrade will
+[00:06:50.980 --> 00:06:57.090]   level up your skills automatically. And auto buy will auto buy items when you have enough gold. Both of
+[00:06:57.090 --> 00:07:03.440]   these settings must be turned off so you don't end up with the wrong skill levels or items. Fixed joystick
+[00:07:03.440 --> 00:07:10.640]   position keeps your joystick from moving around. This one's up to you. HP shift shows the HP of objectives
+[00:07:10.640 --> 00:07:17.520]   while HP lock shows the HP of heroes. Both of these must be turned on so you don't miss retributions or hit
+[00:07:17.520 --> 00:07:24.130]   the wrong target. Skill and camera sensitivity are personal preference. This video took a long time to
+[00:07:24.130 --> 00:07:30.370]   make. You can become a YouTube member to get early access. And if you enjoy this video, you'll definitely
+[00:07:30.370 --> 00:07:31.870]   love this video too.
