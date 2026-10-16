@@ -5,6 +5,9 @@ State as of 2026-10-16. Stage reached: **all inputs collected; no real processin
 ## Goal
 Build a "MLBB Tactics" skill set from 16 tactics videos (`src/`, not in git, will not be given to you). The skills must contain only **durable tactical foundations stated in the videos**. Volatile data (hero/item/emblem names and stats, spell cooldowns, spawn timers and gold/exp numbers, tier lists, meta picks, patch/season claims, UI names) must NOT be in the skills. Those go in a **live-data reconcile table** that the user (or the skill's user) re-checks at use time.
 
+## Latest user decision (2026-10-16, overrides anything below)
+Knowledge keeps only **tactics stated by property, not by name**. No specific item, hero, emblem, talent or spell names in tactical text. Convert "use <Item> to counter X" into "use an item that grants <function>"; "<Hero> does Y" into "a hero archetype/kit trait that does Y". The wiki audit therefore shrinks: do NOT verify individual hero/item/talent names. Verify only (a) that a property-level item/spell/emblem function still exists in the game (e.g. an anti-heal item category, a CC-reduction option), and (b) the mechanics/numbers the tactics rely on: objective timers, economy/gold rules, minion/wave rules, buff effects, retribution mechanics, draft/ban rules. Record results in the reconcile table only, with check date. See the abstraction rule in `work/SYNTH_PROMPT.md`.
+
 ## Rules from the user (do not relitigate)
 1. Tactical knowledge comes only from the videos. No outside MLBB knowledge to fill gaps.
 2. Live data is recorded as a table to be self-verified at use time; it is not part of the tactics.
