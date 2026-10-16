@@ -7,6 +7,7 @@ Data quality: DRAFT was extracted from 46 frames only; hero icons on its slides 
 - Do not copy professional-league drafts blindly. The pro format is a turn-based draft ban (ban, pick, ban, pick); public games use a blind ban (everyone bans first, then picks). Different rules mean different strategy. (src: DRAFT 00:43, 00:53; TERM 04:36)
 - Pro teams know their opponent days ahead and ban/pick against that specific opponent and its players' signature heroes; that information advantage does not exist in public games. (src: DRAFT 01:03)
 - Two comps pro teams often use are valid in public play: dive and front-to-back. (src: DRAFT 01:11, 05:23, 07:45)
+- Context: the video opens by noting the size of the hero pool (L-DRAFT-08).
 - Draft = the phase before the game with two actions: **ban** (prevent everyone from using specific heroes) and **pick** (choose your team's heroes). (src: DRAFT 01:35)
 
 ## 2. Two key concepts
@@ -33,6 +34,7 @@ Data quality: DRAFT was extracted from 46 frames only; hero icons on its slides 
 - Flow: Ban → choose team composition → Pick. After the ban phase you should know your comp; the comp depends on what is left (e.g. IF the OP front-to-back heroes are banned THEN go dive). (src: DRAFT 10:13)
 
 ## 4. The four team compositions
+Role traits each comp needs (hero pools to re-check): L-DRAFT-06.
 None hard-counters another; "it's all about execution". (src: DRAFT 09:54)
 
 ### 4a. Dive
@@ -87,7 +89,7 @@ None hard-counters another; "it's all about execution". (src: DRAFT 09:54)
 - **Synergy 3: jungle + roam** works similarly to mid + jungle. (src: DRAFT 14:21)
 - **Solo rules** ("lower your expectations"): the team should have (1) both a frontline and a backline, (2) both physical and magic damage, (3) both early- and late-game heroes, (4) someone who can engage and someone who can disengage. IF matched with a trio THEN follow their composition. (src: DRAFT 14:27, 14:49)
 
-## 7. Hero-pool mastery per role (archetype slots, not names)
+## 7. Hero-pool mastery per role (archetype slots, not names; L-DRAFT-07)
 Master a small pool of archetypes per role (src: DRAFT 14:54):
 | Role | Slots |
 |---|---|

@@ -3,7 +3,7 @@ Sources: CHAT (primary), MACRO (communicate every rotation), TEST (information)
 Scope: The short-form team-chat calls used in high-rank games, what action each asks for, and the formats they follow. The narrator does not read the codes aloud; the notes transcribed them from on-screen chat lines and overlay labels (about 97 frames). The codes are conventions (durable); spell names are dropped and cooldowns are LIVE.
 Principle: high-rank chat is not random typing; it is fast, short-form calls. Each call is a keyword (plus a hero/role or a lane) and asks for a specific action. One short message can save the whole game. (src: CHAT 02:27, 02:35) This matches the macro rule: tell the team what you know and where you are going (src: MACRO 03:41; 02-macro-core §4).
 
-## 1. Call formats
+## 1. Call formats (spell names: L-CHAT-02; objective names: L-CHAT-03; example clock times: L-CHAT-04)
 - Lane calls: keyword + lane (e.g. `freeze top`).
 - Spell tracking: first letter of the spell + hero/role (e.g. `F MM`). Time-of-availability calls: the clock time as digits without a colon + role (e.g. `820 EXP`).
 - Skill-spent call: `ns` + hero/role.

@@ -32,7 +32,7 @@ Scope: Jungler macro by archetype (tank jungler vs damage jungler) across draft,
 - IF the enemy invades your jungle THEN look at the matchup: win the matchup -> fight them; lose the matchup -> do not die, run away and farm somewhere else. The same logic applies when YOU invade. (src: JUNG 02:17)
 
 ### 3.3 Early objective: the turtle
-- The key is the LAST-HIT DAMAGE matchup against the enemy jungler. Last-hit damage = retribution damage + your hardest-hitting finishing skill (values: L-JUNG-03). (src: JUNG 02:54, 03:08)
+- The key is the LAST-HIT DAMAGE matchup against the enemy jungler (Turtle numbers: L-JUNG-10). Last-hit damage = retribution damage + your hardest-hitting finishing skill (values: L-JUNG-03). (src: JUNG 02:54, 03:08)
 - IF you win the last-hit matchup THEN focus the turtle (while your roamer and XP laner zone the enemy). IF you lose it THEN focus on fighting the enemy instead and teamfight first, taking the objective later. BECAUSE the enemy with higher last-hit damage wins the retribution fight easily if they come in. (src: JUNG 03:18, 03:47)
   - Worked example (Round 1/2): a damage jungler whose finishing skill plus Retribution is higher than a tank jungler's can focus the objective while roamer and XP laner zone; the tank jungler cannot contest it and should teamfight first, taking the objective later. (numbers → L-JUNG-04)
 - IF you can neither out-last-hit nor out-fight the enemy jungler (Round 2/2 example: an early-weak damage jungler against a tank jungler; numbers → L-JUNG-04) THEN "crush the map": go into the enemy jungle far from the turtle, steal their monsters, and you can even gank the enemy gold laner. (src: JUNG 03:54)

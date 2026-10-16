@@ -21,7 +21,7 @@ Data quality: most item icons carry no text on screen, so the notes took names f
   - This is the "secret" behind unusual builds (a tank building damage, a hero with the "wrong" damage type, a sustain hero). (src: BUILD 09:03)
   - ⚠ conflict (inside BUILD): one hero is classed as a sustain mage at 06:22 and used as a physical-attack-scaling example at 08:38. The scaling check wins; classify by what the skills scale with. (hero dropped)
 
-## 3. Core-item logic per damage source
+## 3. Core-item logic per damage source (item functions to re-check: L-ITEM-01)
 
 ### 3a. Physical basic attack: CRITICAL heroes
 - Need critical-chance and critical-damage items. Some of the crit items are must-haves and ORDER matters. (src: BUILD 01:23, 01:30)
@@ -44,7 +44,7 @@ Data quality: most item icons carry no text on screen, so the notes took names f
 
 ### 3d. Physical SKILL heroes: BURST
 - First question: does the hero deal damage purely through skills or also weave in basic attacks? (src: BUILD 04:06)
-- Purely skills: start with the penetration item (boots plus a cheap penetration item early), then, IF you are snowballing and your team has no ultimate-cooldown-style burst-enabling item, pick it up next, then upgrade the penetration item and finish with the top damage item. (src: BUILD 04:14–04:22; the video's "Sky Piercer" is a named item dropped here: it is an item of which one is enough per team → L-ITEM-04)
+- Purely skills: start with the penetration item (boots plus a cheap penetration item early), then, IF you are snowballing and your team has no ultimate-cooldown-style burst-enabling item, pick it up next, then upgrade the penetration item and finish with the top damage item. (src: BUILD 04:14–04:22; the burst-enabling item is one of which one per team is enough → L-ITEM-04)
 - Weaves in basic attacks: same build plus ONE item that adds bonus burst damage to basic attacks, bought before the upgraded penetration item or replacing it. (src: BUILD 04:30–04:46)
 
 ### 3e. Magic heroes
@@ -58,7 +58,7 @@ Data quality: most item icons carry no text on screen, so the notes took names f
 
 ### 3f. Tanks
 - **Defensive tanks**: EVERY item is situational. Check the enemy's main damage source and prioritise the heroes you will face most. (src: BUILD 06:48)
-- Counter list (damage source → defence function) (src: BUILD 07:04–07:56; cross-checked with IMPR 06:04–06:50):
+- Counter list (functions → L-ITEM-06) (damage source → defence function) (src: BUILD 07:04–07:56; cross-checked with IMPR 06:04–06:50):
   | Enemy damage source | Defence function to buy |
   |---|---|
   | Physical basic-attack critical | an item that reduces critical damage |
@@ -69,7 +69,7 @@ Data quality: most item icons carry no text on screen, so the notes took names f
   | Burst mage | the same robe, upgraded into an item that gives a shield against burst |
   | Sustain mage | no counter item: "you'll just have to play" |
   - ⚠ conflict (inside BUILD): for skill burst the narration says the attack-speed-reducing item, the screen shows the skill-damage-reduction item. IMPR (06:04) states the skill-damage-reduction function for skill damage, so the screen label is followed.
-- **Offensive tanks**: two options, the rest is situational. IF you fight often THEN an item that deals area/shock damage on fighting. IF you like staying close to enemies THEN an item that deals damage to surroundings scaling with your HP. (src: BUILD 08:02–08:14)
+- **Offensive tanks** (L-ITEM-11): two options, the rest is situational. IF you fight often THEN an item that deals area/shock damage on fighting. IF you like staying close to enemies THEN an item that deals damage to surroundings scaling with your HP. (src: BUILD 08:02–08:14)
 
 ## 4. Improvising items (adapting during the game)
 - Key principle (IMPR Tip 5/9, on screen): **"The key to improvising items is how fast you can counter the enemy."** Finished items are expensive and slow to buy, so learn the CHEAPER items that give one needed function (shield, penetration, attack speed, mana, cooldown, spell vamp, movement speed) and buy them early. (src: IMPR 02:14, 02:20)
@@ -88,7 +88,7 @@ Data quality: most item icons carry no text on screen, so the notes took names f
 - Magic version, same logic: magic penetration is useless if the enemy heals endlessly. (src: IMPR 04:20)
 - Cross-reference: who buys the mage-side anti-heal in a team → 03c §6. (src: MID 05:24–05:55)
 
-### 4c. Cheap physical items
+### 4c. Cheap physical items (prices/stats → L-ITEM-07)
 - Squishy physical hero: buy a cheap item that gives a shield when you are low on health, between your first and second finished item (boots, finished item, shield item, finished item). Do not upgrade it immediately; upgrade only after three finished items. (src: IMPR 02:26–02:44)
 - Burst-with-skills hero: buy the cheapest physical-penetration item BEFORE the first finished item (boots, then it in slot 2); after a couple of finished items upgrade it: IF you need more burst THEN the burst-upgrade; IF you need more movement speed THEN the movement-speed upgrade. (src: IMPR 02:56–03:17)
 - Attack-speed hero: the cheap attack-speed item is a must right after boots; do not upgrade it to the on-hit slow item yet; IF the enemies are tanky THEN buy the %-enemy-HP on-hit item before upgrading. (src: IMPR 03:20–03:38)
@@ -106,7 +106,7 @@ Data quality: most item icons carry no text on screen, so the notes took names f
 - Physical (enemy has a lot of physical items), split by HOW damage is dealt (src: IMPR 05:52–06:28): skill damage → item reducing physical skill damage; attack-speed damage → item reducing attacker's attack speed; critical damage → item reducing critical damage. This counters "half of the damage" (the other half is magic).
 - Magic, split by burst vs DPS: IF burst mage THEN an item giving a shield against burst; IF DPS mage THEN an item that adds magic defence every time you take magic damage. (src: IMPR 06:40, 06:50)
 - The physical set + magic set + "one more thing": the must-haves under very specific conditions. (src: IMPR 06:55)
-- **Very specific must-haves** (src: IMPR 07:10–07:37):
+- **Very specific must-haves** (L-ITEM-08) (src: IMPR 07:10–07:37):
   - IF your team has a strong healer THEN buy the heal-amplifying item;
   - IF you buy a lot of magic items THEN buy the shield item whose shield scales with magic power;
   - IF you play a marksman THEN buy the item that makes you immune to physical damage;
@@ -120,7 +120,7 @@ Data quality: most item icons carry no text on screen, so the notes took names f
   - Demonstrated by a jungler who sold the item mid-animation, switched to the shield alternative, then used the jungle spell and won. (src: IMPR 08:16)
 
 ## 5. Item combinations (by the problem solved)
-Principle: a combo is good because the items' passives or stats feed each other (e.g. a defensive stat that keeps you alive longer = more time to deal damage), not because each item is strong alone. Each combo has a hero-archetype restriction, and several explicitly do NOT work for some archetypes. (src: COMBO 00:00, summary)
+(Passives the combos depend on: L-ITEM-09; item count claim: L-ITEM-10.) Principle: a combo is good because the items' passives or stats feed each other (e.g. a defensive stat that keeps you alive longer = more time to deal damage), not because each item is strong alone. Each combo has a hero-archetype restriction, and several explicitly do NOT work for some archetypes. (src: COMBO 00:00, summary)
 - **Basic combos** = same-type items (physical / magic / defence). **Advanced combos** = mixed item types. Basic grid: physical 5, magic 2, defence 2. (src: COMBO 05:54)
 Numbering C1–C13 follows the notes (C1–C9 basic, C10–C13 advanced); ⚠ conflict (inside COMBO): the intro says 13 combos, the on-screen counter says 11 tips; extra combos are sub-combos.
 

@@ -54,7 +54,7 @@ Then branch by mobility (src: MID 03:02):
 ## 7. Mid-game macro
 - Early-game priority = help the XP laner; mid-game priority = shift to the jungler. (src: MID 06:09)
 - Open the scoreboard and compare your jungler with the enemy jungler: the higher the level, the stronger the Retribution. Never let your jungler fall behind. (src: MID 06:12; numbers → L-MID-06)
-- Position trick: IF your jungler farms on the red-buff side THEN be on the right side of the map; IF he farms on the blue-buff side THEN be on the left. Help him when he is invaded and never let enemies steal his camps. (src: MID 06:25–06:38; orientation depends on the map side, ⚠ unverified)
+- Position trick: IF your jungler farms on the red side of the map THEN be on the right side of the map; IF he farms on the blue side THEN be on the left. Help him when he is invaded and never let enemies steal his camps. (src: MID 06:25–06:38; ⚠ unverified: whether "red/blue side" means map side or buff side)
 - IF your jungler is safe THEN look at other lanes. In the mid game the gold lane is easier to gank than the XP lane, BECAUSE the enemy marksmen do not have their defensive items yet; take the shown path, then return to mid immediately. (src: MID 06:44–06:56; item-timing claim → L-MID-07)
 - Always watch the map and move in sync with your jungler and roamer. (src: MID 07:01)
 
@@ -62,7 +62,7 @@ Then branch by mobility (src: MID 03:02):
 1. **Do not get picked off.** Never be alone in a lane; stick with your roamer. The biggest mistake is clearing a far lane alone — that is your XP laner's job. (src: MID 07:21–07:29)
 2. **Break through the enemy's protective item** (a defensive item that must be broken by magic burst): you must survive because you are the only one who can break it. (src: MID 07:29; item → L-MID-08)
 3. **Save your strongest skills and target the enemy marksmen.** (src: MID 07:37)
-- Do not push turrets: you do not deal turret damage. BUT IF your base is being pushed THEN you must be first to defend, using skills and range to clear waves. (src: MID 07:44–07:47)
+- Do not push turrets: you do not deal turret damage (L-MID-09). BUT IF your base is being pushed THEN you must be first to defend, using skills and range to clear waves. (src: MID 07:44–07:47)
 
 ## Mistakes summary
 | MISTAKE | FIX | src |

@@ -1,18 +1,18 @@
 # Combat and control settings
 Sources: SET (primary), HID (micro mechanics that depend on controls), CHAT (cross-reference)
-Scope: Which targeting/aiming/control settings change tactical outcomes and what to choose, by function. Setting and menu names are UI names (volatile), so the tactics refer to settings by what they do; the UI names, option labels and recommended values are in the LIVE table. The video never shows the in-game menu path or default values.
+Scope (UI names → L-SET-03; recommended values → L-SET-04; creeps-filter order → L-SET-05; control-dependent heroes → L-SET-06): Which targeting/aiming/control settings change tactical outcomes and what to choose, by function. Setting and menu names are UI names (volatile), so the tactics refer to settings by what they do; the UI names, option labels and recommended values are in the LIVE table. The video never shows the in-game menu path or default values.
 
 ## 1. Why settings matter
 - Many "misplays" are caused by wrong settings, not bad play: ulting the wrong target, hitting a tank with a single-target skill instead of the intended target, a marksman running back and forth, a fast hero feeling slow. (src: SET 00:00)
 
-## 2. Targeting method (three modes)
+## 2. Targeting method (three modes; names → L-SET-01)
 - The method decides how many attack buttons exist (src: SET 00:28–01:04):
   - Mode 1: only one basic-attack button.
   - Mode 2: two extra buttons, a tower-only button and a minion button. CAUTION: the tower button cannot attack enemy heroes; the minion button attacks heroes if no minions are nearby.
   - Mode 3: a hero button that switches the selected enemy hero and a minion button that switches the selected minion.
 - Recommendation: mode 2. After watching dozens of pro streams the video says all of them use it "because it's way better when combined with another setting" (the combo in §8). (src: SET 01:10; anecdotal, L-SET-07)
 
-## 3. Targeting priority (which enemy a basic attack picks)
+## 3. Targeting priority (which enemy a basic attack picks; labels → L-SET-02)
 - Not one-size-fits-all; choose by hero type. Three options: lowest HP percentage; lowest absolute HP; nearest target (HP irrelevant). (src: SET 01:30–01:52)
 - Recommended per hero type (src: SET 01:52–02:11):
   - marksman → nearest target (keeps your distance);

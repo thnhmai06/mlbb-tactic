@@ -1,6 +1,6 @@
 # Core Macro Principles
 Sources: MACRO, TEST
-Scope: Role-agnostic macro: macro as decision-making under uncertainty, map awareness, strong/weak side, rotation types, turret values, action priority, turret-vs-crab trade-off, lane-push methods, teamfight strategy triangle, turret-push plans, minimizing losses, ahead-vs-behind framework, and the four quiz scenarios as IF/THEN rules. Does NOT cover role-specific macro (see 03a-role-exp-lane, 03b-role-gold-lane, 03c-role-mid-lane, 03d-role-jungle, 03e-role-roam — cross-reference only), hero/item data, or numeric timers/gold values (those are in the LIVE table).
+Scope: Role-agnostic macro: macro as decision-making under uncertainty, map awareness, strong/weak side, rotation types, turret values, action priority, turret-vs-crab trade-off, lane-push methods, teamfight strategy triangle, turret-push plans, minimizing losses, ahead-vs-behind framework, and the four quiz scenarios as IF/THEN rules. Patch era of the source video: L-MACRO-12. Does NOT cover role-specific macro (see 03a-role-exp-lane, 03b-role-gold-lane, 03c-role-mid-lane, 03d-role-jungle, 03e-role-roam — cross-reference only), hero/item data, or numeric timers/gold values (those are in the LIVE table).
 
 ## 1. What macro is
 - Macro = knowledge that affects the whole team: rotation direction, objectives, lane-push method, teamfight strategy, turret-push tactics. (src: MACRO 00:31-01:00 summary)

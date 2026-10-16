@@ -50,7 +50,7 @@ Scope: What an XP laner does in draft, the 1v1 early game, minion control, the c
 - The lane crab is worth about one cannon minion; securing it can get you to the level needed for the first objective fight ahead of the enemy XP laner. (src: EXP 05:36; numbers → L-EXP-04)
 - Arriving there first puts the enemy in a bind: clear the wave and arrive late, or come under-levelled. (src: EXP 05:45)
 - How to win the 1v1: mechanics matter, but the one concept that guarantees it is the POWER SPIKE: heroes are strongest in the early, mid or late game. Understand your matchup; with equal mechanics the right matchup always wins. (src: EXP 05:58)
-- Cross-reference: power spike definition in 01-glossary.
+- Cross-reference: power spike definition in 01-glossary; per-hero spike slides → L-EXP-07.
 
 ## 6. Turtle fights (first and second)
 - Main job: ZONE THE ENEMY JUNGLER. (src: EXP 06:36)
@@ -64,7 +64,7 @@ Scope: What an XP laner does in draft, the 1v1 early game, minion control, the c
 
 ## 8. Late game: the deciding phase
 - Your two main tasks are opening the map and managing minions. (src: EXP 07:41)
-- NEVER open the map alone: IF you are caught THEN the enemy instantly takes the Lord and you lose. (src: EXP 07:49)
+- NEVER open the map alone: IF you are caught THEN the enemy instantly takes the Lord and you lose (L-EXP-06). (src: EXP 07:49)
 - Memorise the most important bushes to control. ⚠ unverified: the slide showed bush silhouettes only; locations are not identifiable. (src: EXP 08:03)
 - Before opening the map, make your minion waves optimal: (src: EXP 08:11)
   - always clear the lane FARTHEST from the Lord first;

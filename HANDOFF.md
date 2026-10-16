@@ -1,3 +1,19 @@
+# MLBB Tactics — handoff (updated 2026-10-16, cloud session)
+
+## Progress since the Fable handoff
+- Step 1 (TERM gap-fill) **done from the existing 153 frames** (no `src/` needed): KDA formula = (Kill + Assist) / Death; Versus #2, #4, #9 confirmed (the on-screen slow/hard-push wording confirms the notes); win-rate formula seen. Still unseen: Versus #11 and #12 (no frame shows them) and numbers for damage reduction. Recorded in `work/notes/Every MLBB Term Explained.md` (section "Gap-fill") and `knowledge/01-glossary.md`.
+- Step 2 (wiki audit) **still blocked**: the wiki host is unreachable from the cloud container (proxy 403 / ENOTFOUND). `knowledge/00-live-data-reconcile.md` lists all 104 LIVE rows with status `unchecked` (72 need the wiki, 32 are use-time only).
+- Step 3 (synthesis) **done**: `knowledge/` holds 01-glossary, 02-macro-core, 03a–03e role files, 04-draft, 05-itemization, 06-emblems, 07-settings, 08-micro-mechanics, 09-comms-chat-codes, 00-live-data-reconcile. The three `work/partial-synthesis/` drafts were reviewed, fixed (names removed, IDs renumbered) and finalized as 02, 03d, 03e; the other files were written from `work/notes/` per `SYNTH_PROMPT.md`. Checks run: every L-ID cited exists and every table row is cited; grep for hero/item names in tactical text is clean; scope/fidelity spot-checked against notes.
+- Step 4 (build the skills with skill-creator) **not started on purpose** (user asked to finish the unfinished work first).
+
+## Next
+1. Fix wiki access (or give another route), then audit the 72 wiki rows; tag dependent rules with `⚠ may be outdated: see <ID>`.
+2. Optionally extract frames for the TERM Versus #11/#12 cards (needs `src/`, `bash work/frame.sh`).
+3. Build the skills from `knowledge/` with skill-creator.
+
+---
+(Original handoff below, unchanged.)
+
 # MLBB Tactics — handoff to Fable
 
 State as of 2026-10-16. Stage reached: **all inputs collected; no real processing done yet.** Everything below `work/` is input material. `knowledge/` and the skills do not exist yet.

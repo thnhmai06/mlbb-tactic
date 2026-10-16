@@ -12,7 +12,7 @@ Data quality: the screens were icon-only with no talent captions; the video's ta
 - Emblem categories in the video's selector: assassin, tank, fighter, common, mage, support, marksman (7). (src: EMB 00:40; L-EMB-01)
 - The video rates difficulty per role (assassin easy, tank medium, mage medium, support easy); opinion only. (src: EMB 01:34; L-EMB-02)
 
-## 2. Role → sub-type → stats to maximise → emblem and talent function
+## 2. Role → sub-type → stats to maximise → emblem and talent function (hero membership → L-EMB-05)
 | Role / sub-type | Maximise | Emblem category | Talent functions (names → L-EMB-04) | Src |
 |---|---|---|---|---|
 | Assassin (all, except the critical assassin) | damage, penetration, movement speed | assassin or mage | talent 1: penetration/movement speed; talent 2: damage; core: one of three | EMB 01:00 |
@@ -30,7 +30,7 @@ Data quality: the screens were icon-only with no talent captions; the video's ta
 - The assassin case is the "easy" one: damage, penetration and movement speed with no real sustain or mana concern. (src: EMB 01:34)
 - Framing from the video: tanks cannot deal much damage; "if you want to be tanky and deal lots of damage play fighters"; fighters can deal a lot of damage but not as much as mages; mages are strong damage dealers but "nothing without their support". (src: EMB 02:49, 04:20, 05:20)
 
-## 3. Exceptions (5 "pay attention" cases)
+## 3. Exceptions (5 "pay attention" cases; example heroes → L-EMB-06)
 - **#1 tanks** (src: EMB 02:26–02:49): IF the tank has HIGH MANA CONSUMPTION THEN swap the tank emblem for the common emblem. IF the tank needs extra HEAL and MOVEMENT SPEED THEN swap it for the support emblem. "With that you will be tanky."
 - **#2 shield-sustain fighter** (src: EMB 03:14): IF the fighter's sustain comes from a SHIELD rather than spell vamp THEN swap the fighter emblem for the support emblem.
 - **#3 multi-build and high-base-damage fighters** (src: EMB 03:53, 04:10):

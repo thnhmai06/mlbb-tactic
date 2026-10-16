@@ -3,7 +3,7 @@ Sources: GOLD (primary), with cross-references to MACRO, TERM, EMB, DRAFT
 Scope: Draft by team composition and rank, the emblem decision after the pick, power-spike-driven decisions, early-game farming and fight-or-flight, surviving a multi-man gank, objective (Turtle) participation rules, mid-game split push/farm and late-game duties. Hero names, emblem/talent names and timers are removed (abstraction rule); what must be re-checked is in the LIVE table. This is a beginner guide in the video: "more play brings understanding of each hero's details" (GOLD 03:34).
 
 ## 1. Draft
-### 1a. In a full 5-man party: pick by team composition
+### 1a. In a full 5-man party: pick by team composition (categories → L-GOLD-01)
 - Teammates may not know the theory, so the guide's table is simply followed. (src: GOLD 00:55)
 - IF your team has a lot of ranged heroes (poke comp) THEN pick a long-range gold laner. (src: GOLD 01:08)
 - IF your team has two or three tanky heroes (front-to-back comp) THEN pick a high-DPS gold laner. (src: GOLD 01:13)
@@ -67,7 +67,7 @@ The most important thing is to know when to fight and when to flee. Three cases:
 
 ## 6. Mid game
 - Goal unchanged: get as much gold as possible, but now you rotate. (src: GOLD 07:33; ⚠ unverified: meaning of a "+100 gold" slide marker)
-- IF your hero has mobility THEN split push an outer turret that still stands; IF not THEN farm a lane. (src: GOLD 07:41–07:57; examples → dropped)
+- IF your hero has mobility THEN split push an outer turret that still stands (L-GOLD-08); IF not THEN farm a lane. (src: GOLD 07:41–07:57; examples → dropped)
 - Which lane to farm: the best is mid, because minions reach the centre faster; IF your mid laner does not let you THEN farm whichever lane still has its outer turret. (src: GOLD 08:01–08:13)
 - Cross-reference: split push as a team strategy in 02-macro-core §9.
 
