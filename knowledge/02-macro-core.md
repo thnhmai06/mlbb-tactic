@@ -1,6 +1,6 @@
 # Core Macro Principles
 Sources: MACRO, TEST
-Scope: Role-agnostic macro: macro as decision-making under uncertainty, map awareness, strong/weak side, rotation types, turret values, action priority, turret-vs-crab trade-off, lane-push methods, teamfight strategy triangle, turret-push plans, minimizing losses, ahead-vs-behind framework, and the four quiz scenarios as IF/THEN rules. Patch era of the source video: L-MACRO-12. Does NOT cover role-specific macro (see 03a-role-exp-lane, 03b-role-gold-lane, 03c-role-mid-lane, 03d-role-jungle, 03e-role-roam — cross-reference only), hero/item data, or numeric timers/gold values (those are in the LIVE table).
+Scope: Role-agnostic macro: macro as decision-making under uncertainty, map awareness, strong/weak side, rotation types, turret values, action priority, turret-vs-lane-monster trade-off, lane-push methods, teamfight strategy triangle, turret-push plans, minimizing losses, ahead-vs-behind framework, and the four quiz scenarios as IF/THEN rules. Patch era of the source video: L-MACRO-12. Does NOT cover role-specific macro (see 03a-role-exp-lane, 03b-role-gold-lane, 03c-role-mid-lane, 03d-role-jungle, 03e-role-roam — cross-reference only), hero/item data, or numeric timers/gold values (those are in the LIVE table).
 
 ## 1. What macro is
 - Macro = knowledge that affects the whole team: rotation direction, objectives, lane-push method, teamfight strategy, turret-push tactics. (src: MACRO 00:31-01:00 summary)
@@ -14,10 +14,10 @@ Scope: Role-agnostic macro: macro as decision-making under uncertainty, map awar
 - This applies to every role; the game constantly gives information, the skill is what you do with it. (src: TEST 00:29)
 
 ## 2. Map awareness (what to watch on the minimap)
-- Besides the Turtle and the Lord, what you watch depends on your role. (src: MACRO 00:31)
+- Besides the early objective and the major objective, what you watch depends on your role. (src: MACRO 00:31)
 - IF you are jungler or roamer THEN check teammates' lanes and look for the lane where minions are pushed closest to your own turret BECAUSE that is where a gank is most likely to land. (src: MACRO 00:40)
   - IF you plan to gank there THEN take a path the enemy cannot see. (src: MACRO 00:40)
-- IF you are a gold laner, mid laner or XP laner THEN watch the enemy mid, roamer and jungler. (src: MACRO 01:00)
+- IF you are a gold laner, mid laner or exp laner THEN watch the enemy mid, roamer and jungler. (src: MACRO 01:00)
   - IF any one of them goes missing THEN play safe (farm rather than push up and die). (src: MACRO 01:00)
   - Early game, strong players like sitting quietly in a bush rather than standing exposed. (src: MACRO 01:10)
   - IF a teammate is heading to your lane THEN set up the gank by freezing the minions near your turret or pushing them forward. (src: MACRO 01:10)
@@ -26,7 +26,7 @@ Scope: Role-agnostic macro: macro as decision-making under uncertainty, map awar
 - Cross-reference: role-specific map-reading lives in the role files 03a–03e.
 
 ## 3. Strong side vs weak side
-- The map splits into two areas: mid-to-gold lane and mid-to-XP lane. The area where your jungler, mid and roamer are = strong side; the opposite = weak side. (src: MACRO 02:09)
+- The map splits into two areas: mid-to-gold lane and mid-to-exp lane. The area where your jungler, mid and roamer are = strong side; the opposite = weak side. (src: MACRO 02:09)
 - IF you are on the weak side THEN play safe. IF you are on the strong side THEN play more aggressively BECAUSE teammates are nearby to help. (src: MACRO 02:18)
 - The strong side is crucial because it determines rotation paths. (src: MACRO 02:26)
 - ⚠ unverified: the exact dividing line on the minimap diagram was not unambiguous; the rule is stated in speech only. (src: MACRO 02:14)
@@ -34,45 +34,45 @@ Scope: Role-agnostic macro: macro as decision-making under uncertainty, map awar
 ## 4. Rotations
 Pros may give different rotation directions, but the basics are three types. (src: MACRO 02:33)
 1. Help a losing lane: assist the lane that is behind to stabilise it. Caution: only works if you know the teammate is skilled enough to bounce back once levels are equal. (src: MACRO 02:49-02:56)
-2. Help a winning lane (preferred over 1): lets teammates snowball harder; help them secure everything (crabs, plating, kills). The losing lane plays safe even if it falls behind, because the other four can carry. (src: MACRO 03:03-03:10)
-3. Rotate based on the Turtle (fallback when unsure): IF the Turtle is on the XP lane THEN help the XP laner, and vice versa. The pressured lane lets your laner assist with the Turtle. (src: MACRO 03:25-03:34)
+2. Help a winning lane (preferred over 1): lets teammates snowball harder; help them secure everything (lane monsters, plating, kills). The losing lane plays safe even if it falls behind, because the other four can carry. (src: MACRO 03:03-03:10)
+3. Rotate based on the early objective (fallback when unsure): IF the early objective is on the exp lane THEN help the exp laner, and vice versa. The pressured lane lets your laner assist with the early objective. (src: MACRO 03:25-03:34)
 - IF you rotate anywhere THEN communicate (e.g. tell the team a key enemy ultimate was used so the assassin can engage; tell the team the enemy lacks a key escape spell so the team can dive). (src: MACRO 03:41-03:48; the video's concrete hero-ultimate and spell examples are dropped, see L-MACRO-08)
 - Every rotation has a purpose: either helping a teammate or securing an objective. If you cannot name which, do not rotate. (src: MACRO 03:55)
 
 ## 5. Turret values
-- Turrets look the same but are not worth the same; tiers are Outer, Inner, Inhibitor. (src: MACRO 04:03; see L-MACRO-04)
+- Turrets look the same but are not worth the same; tiers are Outer, Inner, base-gate. (src: MACRO 04:03; see L-MACRO-04)
 - IF choosing between mid-lane and side-lane turrets THEN take mid Outer and mid Inner as the most valuable BECAUSE they open up the map between lanes and the buff area. (src: MACRO 04:10)
 - Consequences of losing your mid Outer + Inner turrets (src: MACRO 04:25):
   - your mid and roamer have a hard time rotating (04:33)
-  - your marksman and XP laner become easy targets (04:33)
+  - your marksman and exp laner become easy targets (04:33)
   - your jungler struggles to farm and the enemy jungler can steal your jungle (04:40)
-- The mid inhibitor turret is the LEAST valuable; the side-lane inhibitor is the one to prioritise. (src: MACRO 04:47)
-  - Super minions on a side lane (after that inhibitor falls): the enemy is forced to keep monitoring that lane, which makes it easier for you to secure the Lord; the enemy hero on that lane is far from the Lord pit. (src: MACRO 04:54-05:05)
-  - Super minions in the mid lane: the mid lane is short so you have trouble gathering minions to push, and the enemy benefits from the gold of the pushed super minions. (src: MACRO 05:00)
-- Quiz answer summary: mid for Outer, mid for Inner, side lanes for Inhibitor. (src: MACRO 05:22)
-- Super minions spawn on the lane whose inhibitor turret was destroyed (see L-MACRO-05). (src: MACRO 04:47)
+- The mid base-gate tower is the LEAST valuable; the side-lane base-gate tower is the one to prioritise. (src: MACRO 04:47)
+  - Empowered minions on a side lane (after that base-gate tower falls): the enemy is forced to keep monitoring that lane, which makes it easier for you to secure the major objective; the enemy hero on that lane is far from the major-objective pit. (src: MACRO 04:54-05:05)
+  - Empowered minions in the mid lane: the mid lane is short so you have trouble gathering minions to push, and the enemy benefits from the gold of the pushed empowered minions. (src: MACRO 05:00)
+- Quiz answer summary: mid for Outer, mid for Inner, side lanes for base-gate. (src: MACRO 05:22)
+- Empowered minions spawn on the lane whose base-gate tower was destroyed (see L-MACRO-05). (src: MACRO 04:47)
 
 ## 6. Action priority (what to do first on a side lane)
-Five options: take the plating, destroy the turret, farm minions, duel enemy heroes, secure the crab. (src: MACRO 05:22)
+Five options: take the plating, destroy the turret, farm minions, duel enemy heroes, secure the lane monster. (src: MACRO 05:22)
 Priority order shown (src: MACRO 05:35):
 1. Enemy hero kill that is 100% guaranteed.
 2. Plating (reason: it disappears after a time limit, see L-MACRO-01).
-3. Minions and crab (gold and experience).
+3. Minions and lane monster (gold and experience).
 4. Enemy hero kill when the chance is only high (not guaranteed).
 5. Turret (reason: turrets last; they will still be there).
 - Exception: IF you are in the mid lane THEN mid turrets are more valuable than minions BECAUSE of the map control they provide. (src: MACRO 05:55)
 - WHY strong players hide in bushes: securing guaranteed gold beats risking a duel you might not win. (src: MACRO 06:05)
 - Principle: prefer what disappears or is guaranteed now over what will still be there later or is merely likely.
 
-## 7. Turret vs crab: do the math
+## 7. Turret vs lane monster: do the math
 - Pushing the turret is not always best; compare the net gain of each option. (src: MACRO 06:14)
 - Option A, destroy the turret: kill gold + minion gold + turret gold, MINUS the gold the respawned enemy collects because the wave survives once the turret is gone. (src: MACRO 06:21; numbers in L-MACRO-02)
-- Option B, take the crab: crab gold + minion gold; the enemy gets nothing because the minions die to the turret. (src: MACRO 06:40; numbers in L-MACRO-03)
-- Result in the video's example: the crab beat the turret. (src: MACRO 06:55)
+- Option B, take the lane monster: lane monster gold + minion gold; the enemy gets nothing because the minions die to the turret. (src: MACRO 06:40; numbers in L-MACRO-03)
+- Result in the video's example: the lane monster beat the turret. (src: MACRO 06:55)
 - Conditions of that example (src: MACRO 06:55-07:05):
   - IF plating is still available THEN take the plating first.
-  - IF the minions are still carrying the cannon/wagon (the strong wave) THEN the crab is better than pushing the turret.
-  - IF the minions no longer carry the wagon THEN destroying the turret is better. (Tip 6/8)
+  - IF the the wave still includes its siege minion (the strong wave) THEN the lane monster is better than pushing the turret.
+  - IF the wave no longer includes its siege minion THEN destroying the turret is better. (Tip 6/8)
 
 ## 8. Lane-pushing methods
 - Hard push: push the minions as fast as possible; the turret-push technique above is a hard push. (src: MACRO 07:12)
@@ -95,17 +95,17 @@ Decisions are wasted if you do not understand how to fight; there are three stra
 ## 10. Turret-push plans
 Most players push turrets carelessly, which makes the push easy to defend. (src: MACRO 08:55) The plan depends on timing (see L-MACRO-06): (src: MACRO 09:05)
 - Early plan, 3-Lane Push: push all lanes at once so the enemy is confused about which lane to defend. (src: MACRO 09:09)
-  - Sequence when the Lord spawns: hard push the gold lane, hard push the XP lane, slow push the mid lane. (src: MACRO 09:09)
+  - Sequence when the major objective spawns: hard push the gold lane, hard push the exp lane, slow push the mid lane. (src: MACRO 09:09)
   - When the side-lane minions reach the marked point near the enemy side, hard push the mid lane so all three waves arrive together. (src: MACRO 09:17)
-  - Diagram: two heroes on the XP lane, two on the gold lane, the remaining hero in mid. (src: MACRO 09:20)
-- Late plan, Straight Push: once the Lord is evolved, escort the Lord as a team of five down one path. BECAUSE an evolved Lord gains damage reduction when teammates are nearby (L-MACRO-07). (src: MACRO 09:24-09:32)
-- ⚠ unverified: the video ties the plan switch to a clock minute on screen but speaks of "once the Lord evolves"; whether these are the same moment is not confirmed. (src: MACRO 09:24)
+  - Diagram: two heroes on the exp lane, two on the gold lane, the remaining hero in mid. (src: MACRO 09:20)
+- Late plan, Straight Push: once the major objective is evolved, escort the major objective as a team of five down one path. BECAUSE an evolved major objective gains damage reduction when teammates are nearby (L-MACRO-07). (src: MACRO 09:24-09:32)
+- ⚠ unverified: the video ties the plan switch to a clock minute on screen but speaks of "once the major objective evolves"; whether these are the same moment is not confirmed. (src: MACRO 09:24)
 
 ## 11. Minimizing losses
 - Macro is not only about gaining advantage; in real games sometimes it is used to minimize losses. (src: MACRO 09:45)
 - IF a contested objective fight no longer makes sense (e.g. a teammate died alone and the fight is now outnumbered) THEN concede the objective BECAUSE losing the fight AND the objective gives the enemy a comeback; conceding keeps your advantage. (src: MACRO 09:53-10:08)
-  - Worked example: a pro team let the Turtle go after one player died alone (fight would be 4v5), kept the advantage and won. (src: MACRO 09:53-10:08)
-- Solo-queue version: IF your team starts a fight alone while your jungler is not ready, or your jungler tries to force/steal the Turtle and it is going badly THEN leave it and avoid further losses. (src: MACRO 10:20)
+  - Worked example: a pro team let the early objective go after one player died alone (fight would be 4v5), kept the advantage and won. (src: MACRO 09:53-10:08)
+- Solo-queue version: IF your team starts a fight alone while your jungler is not ready, or your jungler tries to force/steal the early objective and it is going badly THEN leave it and avoid further losses. (src: MACRO 10:20)
 
 ## 12. Ahead vs behind framework
 - IF you are ahead THEN you usually have several good options (take an objective, invade, push a side lane, reset and prepare the next play). The question is not "what is correct" but "which good option gives the most value for the least risk". (src: TEST 09:18)
@@ -131,29 +131,29 @@ Most players push turrets carelessly, which makes the push easy to defend. (src:
 ### Scenario 2 (medium): jungler, enemy invades your buff, no allies nearby
 - Options offered: A play safe and steal-secure the buff with the jungle spell; B fight the enemy first and force them away; C ping a teammate and wait; D continue farming on the opposite side. Correct: D. (src: TEST 03:13, 03:23)
 - IF the enemy already controls the area (invading your buff) AND no allies are near THEN do not try to recover the lost resource; go to the opposite side, clear your camps, and take whatever is still available. BECAUSE do not give the enemy a second advantage on top of the one they already created. (src: TEST 04:24-04:32)
-- Importance of the buff is not a reason to walk into a losing fight. (src: TEST 03:32; the video's example is a jungler that depends heavily on the blue buff — a kit trait: heroes whose casting depends on a buff lose most from losing it)
+- Importance of the buff is not a reason to walk into a losing fight. (src: TEST 03:32; the video's example is a jungler that depends heavily on a resource buff — a kit trait: heroes whose casting depends on a buff lose most from losing it)
 - Why not A (retake alone): IF you miss the jungle spell or get caught THEN you lose the fight, the buff, your tempo and maybe another camp; one lost resource becomes a bigger problem. (src: TEST 03:42; see L-MACRO-09)
 - Why not B (fight first): forcing enemies away only works with teammates around; alone you just die, even if ahead in gold. (src: TEST 03:56)
 - Why not C (ping and wait): better than going in blind, but teammates will not arrive in time and waiting stalls your whole tempo and jungle rotation pace. (src: TEST 04:10)
 - Lesson: sometimes the best play is recognising you already lost the resource and making sure you lose nothing else. (src: TEST 04:45)
 
-### Scenario 3 (hard): roamer in mid, enemy jumps your marksman with three, Turtle is up on the XP side
-- Options offered: A go to gold lane and save the marksman; B prepare for the Turtle; C track down the enemy jungler; D gank the XP lane instead. Correct: C (B, C, D are each defensible, C is best). (src: TEST 04:59, 05:11)
+### Scenario 3 (hard): roamer in mid, enemy jumps your marksman with three, early objective is up on the exp side
+- Options offered: A go to gold lane and save the marksman; B prepare for the early objective; C track down the enemy jungler; D gank the exp lane instead. Correct: C (B, C, D are each defensible, C is best). (src: TEST 04:59, 05:11)
 - IF the enemy commits several players to one place THEN ask "what did their play leave vulnerable?" instead of "how do I stop it / save my marksman?" Find who is missing from the commit and punish that. (src: TEST 05:41)
   - Here the missing one is the enemy jungler, the biggest unknown on the map. (src: TEST 05:53)
 - IF you would arrive too late THEN do not dive into an already lost fight; ping the teammate to retreat and let him handle it; sometimes accept the loss and find a better trade. The roamer's job is not to save teammates from every situation. (src: TEST 06:09)
 - Evaluate every option as a TRADE (what you lose vs what you gain), not in isolation. (src: TEST 06:39)
 - Why each option: (src: TEST 05:30)
   - A: fine in a normal situation, but you are too late and arrive at a lost fight.
-  - B: reasonable (most of the enemy is on the gold lane so you could take the Turtle fast) but the trade is bad: lose marksman and maybe the gold-lane tower, gain only the Turtle.
-  - D: might kill the XP laner before he rotates, but the rest of the enemy can still rotate to the Turtle and their jungler is alive; you are only hoping one kill pays for everything elsewhere.
-  - C: the enemy jungler is probably taking his buff before the Turtle, alone, because his team is committed on the gold lane. Kill him -> your jungler invades their buff and takes their jungle resources -> you take the Turtle since their jungler is dead. (src: TEST 06:59)
-- Net trade for C: lose marksman (+ maybe gold-lane tower); gain enemy jungler + his buff + the Turtle = much better. (src: TEST 07:27)
+  - B: reasonable (most of the enemy is on the gold lane so you could take the early objective fast) but the trade is bad: lose marksman and maybe the gold-lane tower, gain only the early objective.
+  - D: might kill the exp laner before he rotates, but the rest of the enemy can still rotate to the early objective and their jungler is alive; you are only hoping one kill pays for everything elsewhere.
+  - C: the enemy jungler is probably taking his buff before the early objective, alone, because his team is committed on the gold lane. Kill him -> your jungler invades their buff and takes their jungle resources -> you take the early objective since their jungler is dead. (src: TEST 06:59)
+- Net trade for C: lose marksman (+ maybe gold-lane tower); gain enemy jungler + his buff + the early objective = much better. (src: TEST 07:27)
 - 5v5 principle: you cannot always react to what the enemy is doing; sometimes the correct response is not to stop their play but to find the best thing you can do BECAUSE of their play. Turn the information they gave you into your own advantage. (src: TEST 07:36)
-- Cross-reference: roamer-specific logic in 03e-role-roam; jungler tracking in 03d-role-jungle. Turtle timing/side: see L-MACRO-10; objective rewards: see L-MACRO-11.
+- Cross-reference: roamer-specific logic in 03e-role-roam; jungler tracking in 03d-role-jungle. Early objective timing/side: see L-MACRO-10; objective rewards: see L-MACRO-11.
 
 ### Scenario 4 (final): who is favoured in the fight? (read the fight state)
-- Options offered: A the blue team (ahead in gold, controlling the area around the Lord); B the red team; C completely even. Correct: B. (src: TEST 08:20, 08:29)
+- Options offered: A the blue team (ahead in gold, controlling the area around the major objective); B the red team; C completely even. Correct: B. (src: TEST 08:20, 08:29)
 - IF the enemy's key ability (e.g. an ultimate) has just been used and hit nothing THEN the team that still has its tools is favoured and the window is now. BECAUSE the scoreboard (gold, kills, area control) does not show what just happened; the current fight state (cooldowns) does. (src: TEST 08:29, 08:44)
 - A team does not need to become stronger than the opponent; it only needs to notice the opponent's key ability is gone and use that window. (src: TEST 09:00)
 - IF your own key tool is on cooldown THEN being ahead and controlling the objective area does NOT make you favoured, especially if you are overextended; consider waiting for your abilities to come back and make the enemy fight you when you are ready. (src: TEST 08:44, 09:00)
@@ -164,14 +164,14 @@ Most players push turrets carelessly, which makes the push easy to defend. (src:
 2. Which side is strong and which is weak for my team? Play aggressive on strong, safe on weak. (src: MACRO 02:09-02:18)
 3. Which key tools (ults, escapes) are down on either team right now? (src: TEST 08:29-08:44; MACRO 03:41-03:48)
 4. Am I ahead or behind? Ahead = best value for least risk; behind = lose less and wait for the enemy mistake. (src: TEST 09:18-10:17)
-5. What is on offer by priority: guaranteed kill > plating > minions/crab > likely kill > turret; mid turrets over minions if mid. (src: MACRO 05:35-05:55)
+5. What is on offer by priority: guaranteed kill > plating > minions/lane monster > likely kill > turret; mid turrets over minions if mid. (src: MACRO 05:35-05:55)
 6. If the enemy committed somewhere, what did that leave exposed, and what is the net trade of my option? (src: TEST 05:41, 06:39)
 7. Is the resource already lost? Then take what remains and lose nothing else. (src: TEST 04:24)
 8. Will the fight be worse than losing the objective? Concede if so. (src: MACRO 09:53-10:08)
 9. Tell the team what I know and where I am going. (src: MACRO 03:41)
 
 ## Conflicts / notes between sources
-- No direct contradiction found between MACRO and TEST. The two are complementary: MACRO gives pre-set priorities and strategy choices; TEST says rules are not enough and information must be read each time. Where a MACRO priority (e.g. "take the crab over the turret") meets a TEST situation (e.g. enemy controls the area, you are alone), the TEST rule "do not lose a second resource" wins.
+- No direct contradiction found between MACRO and TEST. The two are complementary: MACRO gives pre-set priorities and strategy choices; TEST says rules are not enough and information must be read each time. Where a MACRO priority (e.g. "take the lane monster over the turret") meets a TEST situation (e.g. enemy controls the area, you are alone), the TEST rule "do not lose a second resource" wins.
 - Possible tension to watch (not a flagged conflict): MACRO lists "help a winning lane" as the preferred rotation, while the TEST scenario 3 favours punishing what the enemy left vulnerable instead of rotating to a lane that is already lost. Both are consistent with: rotate to where the trade is best, not to where the fight already is.
 
 ## LIVE-DATA TO RE-VERIFY

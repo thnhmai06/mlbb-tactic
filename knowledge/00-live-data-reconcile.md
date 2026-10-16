@@ -8,6 +8,28 @@ Purpose: every volatile fact the tactics rely on, collected from the topic files
 - Also still to do: search the wiki patch history for changes to items, emblems, battle spells, Retribution/jungle, objectives and the map since the videos (the videos show patch era 1.9.9.0 in clips and mention Season 40).
 - Audit route column: `wiki` rows are audited during the build (mechanics/numbers/categories); rows whose source is only `mlbbhub` are for the skill's user at use time (rule: do not use mlbbhub during the build).
 
+## Term mapping (game-agnostic wording in `knowledge/` ↔ the game the videos used)
+The tactics are written so the thinking survives a change of game or patch: no hero, item, spell, talent, objective or UI names. Wherever the tactics say the left-hand term, the videos meant the right-hand one. This table is volatile (names change by game and patch) and is the only place the names live; an equivalent in another game fills the left term the same way.
+
+| Generic term used in the tactics | What it meant in the videos (MLBB) |
+|---|---|
+| early objective | the Turtle (first/second/third spawn) |
+| major objective | the Lord (late-game objective; evolves; its minions) |
+| empowered minions | Lord minions (from the major objective) and super minions (from a destroyed base-gate tower) |
+| base-gate tower | inhibitor turret |
+| outer / inner tower | outer / inner turret |
+| lane monster | the lane crab |
+| siege minion | cannon minion ("wagon") |
+| plating | tower plating (golden layer that gives gold and expires) |
+| objective-secure spell | Retribution (jungle spell and its variants) |
+| escape spell / cleanse spell | Flicker / Purify (battle spells) |
+| active spell | battle spell |
+| resource buff | blue buff / red buff |
+| pre-game set (category, talent 1/2, core talent) | emblem (assassin/tank/fighter/common/mage/support/marksman) and its talents |
+| professional-league draft | MPL draft ban; public blind ban |
+| top rank tier | Mythic (rank threshold quoted in GOLD) |
+| exp lane / gold lane / mid / jungle / roam | the five MLBB roles/lanes |
+
 ## Column guide
 - `Cited` = how many times the ID is cited in the tactical text of its file (0 would mean orphan; none exist).
 - The same fact may appear in several files (e.g. Turtle timing); audit once, apply to all rows with the same claim.

@@ -1,6 +1,6 @@
 # Role: Gold lane
 Sources: GOLD (primary), with cross-references to MACRO, TERM, EMB, DRAFT
-Scope: Draft by team composition and rank, the emblem decision after the pick, power-spike-driven decisions, early-game farming and fight-or-flight, surviving a multi-man gank, objective (Turtle) participation rules, mid-game split push/farm and late-game duties. Hero names, emblem/talent names and timers are removed (abstraction rule); what must be re-checked is in the LIVE table. This is a beginner guide in the video: "more play brings understanding of each hero's details" (GOLD 03:34).
+Scope: Draft by team composition and rank, the pre-game set decision after the pick, power-spike-driven decisions, early-game farming and fight-or-flight, surviving a multi-man gank, objective  participation rules, mid-game split push/farm and late-game duties. Hero names, pre-game set/talent names and timers are removed (abstraction rule); what must be re-checked is in the LIVE table. This is a beginner guide in the video: "more play brings understanding of each hero's details" (GOLD 03:34).
 
 ## 1. Draft
 ### 1a. In a full 5-man party: pick by team composition (categories → L-GOLD-01)
@@ -17,15 +17,15 @@ Scope: Draft by team composition and rank, the emblem decision after the pick, p
 - Damage-type balance: IF the team already has a lot of magic heroes THEN pick physical, and vice versa. Worked example "Low Rank Draft": your team is mostly magic and your slot is physical-capable → you pick physical. (src: GOLD 02:30–02:36; same rule in EXP 01:39)
 - Mindset: "think of the game as 1 vs 9" — your hero must be able to carry on its own. (src: GOLD 02:36)
 
-### 1c. Emblem decision right after the pick
+### 1c. Pre-game set decision right after the pick
 - Compare your gold laner with the enemy gold laner immediately: (src: GOLD 02:43)
-  - IF you are weaker in the early game THEN use a defensive emblem setup. (src: GOLD 02:53; the specific choice → L-GOLD-03)
-  - IF you are even or stronger early THEN use the role emblem that fits the hero (marksman, assassin or mage). (src: GOLD 03:02)
-- Cross-reference: emblem logic in 06-emblems.
+  - IF you are weaker in the early game THEN use a defensive pre-game set setup. (src: GOLD 02:53; the specific choice → L-GOLD-03)
+  - IF you are even or stronger early THEN use the role pre-game set that fits the hero (marksman, assassin or mage). (src: GOLD 03:02)
+- Cross-reference: pre-game set logic in 06-pre-game sets.
 
 ## 2. Power spike (the basis of everything below)
 - Every decision below depends on the hero's power spike: gold laners are strong in early, mid or late game. The video's chart groups gold-laner icons into early (red), mid (blue) and late (green) boxes. (src: GOLD 03:15–03:40; contents → L-GOLD-04; ⚠ unverified: icons unidentified)
-- WHY it matters: the power spike decides your early-lane fight/flight, your Turtle decisions and your mid-game lane choice. (src: GOLD 06:55)
+- WHY it matters: the power spike decides your early-lane fight/flight, your early objective decisions and your mid-game lane choice. (src: GOLD 06:55)
 
 ## 3. Early game (up to about minute 5; L-GOLD-05)
 - Core job: farm while harassing your lane opponent. (src: GOLD 03:49)
@@ -51,16 +51,16 @@ The most important thing is to know when to fight and when to flee. Three cases:
 - IF you are ganked by four, your hero does not matter; watch the minimap. IF the enemy mid, jungler and roamer disappear for too long THEN fall back to your inner turret. (src: GOLD 05:46, 05:52)
 - BIGGEST MISTAKE (#3/4): trying to defend the turret. FIX: let them take the plating or even the turret as long as you stay alive. (src: GOLD 06:01)
 
-## 5. Objective (Turtle) participation rules
-- First Turtle (early): same logic as the turret — you do not need to join; stay safe in lane. Join only if you can participate without missing minions (TIP 4/5), e.g. a teammate's skill brings you there. (src: GOLD 06:11–06:27; the exact condition in the video is garbled, ⚠ unverified; examples → L-GOLD-06)
-- Second Turtle (early): it can spawn in the gold lane or the XP lane. (src: GOLD 06:27)
+## 5. Objective  participation rules
+- First early objective (early): same logic as the turret — you do not need to join; stay safe in lane. Join only if you can participate without missing minions (TIP 4/5), e.g. a teammate's skill brings you there. (src: GOLD 06:11–06:27; the exact condition in the video is garbled, ⚠ unverified; examples → L-GOLD-06)
+- Second early objective (early): it can spawn in the gold lane or the exp lane. (src: GOLD 06:27)
   - IF it spawns in the gold lane THEN you must help: do not die before it spawns, clear your minions, move toward it safely, and deal as much damage as possible to it or the enemies while staying alive. (src: GOLD 06:37–06:48)
-  - IF it spawns in the XP lane THEN use your power spike (src: GOLD 06:55):
+  - IF it spawns in the exp lane THEN use your power spike (src: GOLD 06:55):
     - strong early → you can help, but only after pushing your wave; IF the enemy zones you so you cannot push THEN skip it and farm;
     - strong late → do not help; push your lane instead.
 - FATAL MISTAKE (#4/4): overextending and getting solo-killed; if the team then loses the objective they tilt and the game goes very badly. Priority is to stay alive. (src: GOLD 07:15)
-- Third Turtle (mid game): you must help. Rules (TIP 5/5): (src: GOLD 08:17)
-  1. do not hit the Turtle without your jungler (GOLD 08:21);
+- Third early objective (mid game): you must help. Rules (TIP 5/5): (src: GOLD 08:17)
+  1. do not hit the early objective without your jungler (GOLD 08:21);
   2. do not show on the map before it spawns (08:27);
   3. do not stay in a far lane before the fight (08:29);
   4. do not take the buff when your team is already ready for war (spoken only, 08:31; buff → L-GOLD-07).
@@ -89,7 +89,7 @@ The most important thing is to know when to fight and when to flee. Three cases:
 | Entering the fog alone in the late game | Stay with the team | GOLD 08:57 |
 
 ## Flagged items
-- ⚠ unverified: power-spike chart icons unidentified; the video's Turtle-join condition (one hero's ultimate) is garbled.
+- ⚠ unverified: power-spike chart icons unidentified; the video's early objective-join condition (one hero's ultimate) is garbled.
 - ⚠ unverified: the rank-tier wording (on-screen "80 and above" vs whisper "AD").
 - ⚠ unverified: whether the "minute 5" early-game boundary is a rule or approximate.
 

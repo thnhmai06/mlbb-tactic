@@ -1,6 +1,6 @@
-# Glossary of MLBB tactical terms
+# Glossary of tactical terms (MOBA-generic)
 Sources: TERM
-Scope: Definitions of the vocabulary the other topic files rely on, in match order (draft → early → mid → late). Definitions only as the video states them. Hero, item and spell names used as examples in the video are dropped (abstraction rule). Numbers and timers are placeholders registered in the LIVE table at the end.
+Scope: Game-agnostic definitions. Game-specific names are mapped in `00-live-data-reconcile.md` (term mapping). Definitions of the vocabulary the other topic files rely on, in match order (draft → early → mid → late). Definitions only as the video states them. Hero, item and spell names used as examples in the video are dropped (abstraction rule). Numbers and timers are placeholders registered in the LIVE table at the end.
 
 ## 1. Damage and hero concepts
 - **Burst**: damage that comes out as much and as fast as possible. (src: TERM 00:00)
@@ -11,7 +11,7 @@ Scope: Definitions of the vocabulary the other topic files rely on, in match ord
 - **Poke**: a hero type good at dealing small amounts of damage to the enemy. (src: TERM 01:26)
 - **Sustained**: survives through healing or shields. **Tanky**: survives through health and defence. (src: TERM 01:26–01:44)
 - **Initiator**: a hero that starts fights with its skills. "Usually, tanky heroes are also initiators." (src: TERM 02:06) (video's example heroes → dropped; role claims → L-GLOSS-02)
-- **Jungler**: a role that uses Retribution and farms the jungle. **Core**: your team's main damage dealer. **Hyper**: a strategy where every resource goes to one person so they can carry the team. (src: TERM 01:05)
+- **Jungler**: a role that uses the objective-secure spell and farms the jungle. **Core**: your team's main damage dealer. **Hypercarry**: a strategy where every resource goes to one person so they can carry the team. (src: TERM 01:05)
 - **Heal** restores health; **anti-heal** reduces the enemy's healing; **shield** is temporary protection that absorbs damage. (src: TERM 01:44)
 - **Crowd control (CC)**: an effect that hinders enemy movement; it does not affect heroes that are immune. (src: TERM 02:07)
 - **Immune vs untargetable** (src: TERM 02:28)
@@ -46,7 +46,7 @@ Scope: Definitions of the vocabulary the other topic files rely on, in match ord
   - **Hard push**: clear the enemy minions as fast as possible so your minions are shoved to the enemy tower.
   - **Freeze**: keep the minions where they are by keeping your minion count equal to the enemy's.
   - ⚠ conflict (inside TERM): the audio attributes "build a massive wave" to hard push, the on-screen cards (Versus #9, 07:40–07:52) put it under slow push. The cards are followed here; the frames confirm the card wording.
-- **Last hit**: dealing the final blow on a minion to get its gold. **Deny** (TIP #3, "the one thing you must do when farming"): make the enemy lose minions and gold, usually by zoning. **Zoning**: keeping the enemy out of an area (lane, Turtle pit, Lord pit). (src: TERM 07:54–08:08)
+- **Last hit**: dealing the final blow on a minion to get its gold. **Deny** (TIP #3, "the one thing you must do when farming"): make the enemy lose minions and gold, usually by zoning. **Zoning**: keeping the enemy out of an area (lane, early-objective pit, major-objective pit). (src: TERM 07:54–08:08)
 - **Solo kill**: killing the enemy laner 1v1. (src: TERM 08:22)
 - **KDA**: Kill/Death/Assist ratio showing how often you kill or assist relative to how often you die (kills and assists green, deaths red). Formula, as shown on screen: **(Kill + Assist) / Death**. (src: TERM 08:22, 08:41 — confirmed in the gap-fill from existing frames)
 - **Gank**: going to another lane to help kill the enemy; **pathing**: the route you take. IF you expect a gank THEN play safe BECAUSE survival decides the lane. (src: TERM 08:50)
@@ -54,23 +54,23 @@ Scope: Definitions of the vocabulary the other topic files rely on, in match ord
 
 ## 4. Tempo and snowballing
 - **Power spike**: when a hero is at its strongest; can occur in the early, mid or late game. To capitalise on a spike you **invade** (read the enemy jungle and steal camps). (src: TERM 09:46)
-- A jungler should know the three buff sources (blue, red, Turtle); with them the team reaches its power spike faster. Their effects → L-GLOSS-09. (src: TERM 09:18)
+- A jungler should know the three buff sources (blue, red, early objective); with them the team reaches its power spike faster. Their effects → L-GLOSS-09. (src: TERM 09:18)
 - **Snowball**: win the early game and use the advantage to grow it. **Bounty**: extra gold the enemy gets for killing someone far ahead. MISTAKE: snowballing carelessly. WHY: your bounty becomes very high and lets the enemy **comeback** (turn a losing game into a winning one). (src: TERM 09:46–10:08)
 
 ## 5. Mid game
-- **Mid game**: from the end of the early game until the Lord spawns (minutes → L-GLOSS-10). (src: TERM 10:43)
+- **Mid game**: from the end of the early game until the major objective spawns (minutes → L-GLOSS-10). (src: TERM 10:43)
 - **Clash / war**: a fight with more than 2 people, some on the front line and some on the back line. The best thing in a clash is to **lock the enemy back line** = focus one specific enemy. (src: TERM 10:43–11:01)
 - **Flank**: attacking from the side or back while the enemy is not ready (the enemy can still **kite** = attack while moving). IF you want a flank to succeed THEN use **conceal** (an effect that makes you invisible). Conceal also enables **pick off** (taking enemies out one by one). (src: TERM 11:01)
-- **Split push**: pushing the farthest lane to pressure the map. Warning: be careful when attacking, because the enemy can also split push. **Straight push**: the whole team pushes one lane. **3-lane push**: split up to push all lanes; viable only if you have the Lord. (src: TERM 11:30)
+- **Split push**: pushing the farthest lane to pressure the map. Warning: be careful when attacking, because the enemy can also split push. **Straight push**: the whole team pushes one lane. **3-lane push**: split up to push all lanes; viable only if you have the major objective. (src: TERM 11:30)
 
 ## 6. Late game
-- **Late game** starts after the Lord spawns; the Lord later evolves (timing → L-GLOSS-11). (src: TERM 11:58)
-- **Lord minions**: enhanced minions after defeating the Lord. **Super minions**: appear when you destroy the enemy inhibitor. Lord minions are stronger than super minions. (src: TERM 12:08) → L-GLOSS-12
+- **Late game** starts after the major objective spawns; the major objective later evolves (timing → L-GLOSS-11). (src: TERM 11:58)
+- **empowered minions**: enhanced minions after defeating the major objective. **Empowered minions**: appear when you destroy the enemy base-gate tower. Empowered minions are stronger than empowered minions. (src: TERM 12:08) → L-GLOSS-12
 
 ## Flagged items carried over
 - Gap-fill (2026-10-16, from the existing 153 frames, no `src/`): Versus #2 (jungler/core/hyper), #4 (sustain/tanky) and #9 (slow push/hard push/freeze) were confirmed on screen and the KDA formula was found. ⚠ unverified: Versus #11 and #12 never appear in any frame, so what they cover is still unknown; extra frames would need `src/` (`work/frame.sh`).
 - ⚠ unverified: the opening card also groups "Popular Terms" and "Epic Player Terms" (e.g. core, anti-heal), and later "immortal" terms were announced but not shown.
-- ⚠ conflict: TERM audio says the Lord evolves at "minute 18", the late-game graphic runs to about 17 → L-GLOSS-11.
+- ⚠ conflict: TERM audio says the major objective evolves at "minute 18", the late-game graphic runs to about 17 → L-GLOSS-11.
 
 ## LIVE-DATA TO RE-VERIFY
 | ID | What the video claimed | Why it matters | What to check | Source |
