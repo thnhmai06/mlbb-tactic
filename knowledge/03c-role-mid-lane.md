@@ -1,6 +1,6 @@
 # Role: Mid lane (mage)
 Sources: MID (primary), with cross-references to MACRO, BUILD, EMB
-Scope: Mage types and draft choice, first-shop decision, early-game rotation and early objective set-up, fight position, the three big mistakes, gold-spending logic for anti-heal, mid-game priorities and late-game obligations. Hero names, item names and exact timers are removed (abstraction rule); numbers are in the LIVE table.
+Scope: Mage types and draft choice, first-shop decision, early-game rotation and Turtle set-up, fight position, the three big mistakes, gold-spending logic for anti-heal, mid-game priorities and late-game obligations. Hero names, item names and exact timers are removed (abstraction rule); numbers are in the LIVE table.
 
 ## 1. Mage types and draft
 - Three mage types: burst, DPS and utility. (src: MID 00:27)
@@ -24,19 +24,19 @@ Rotation order after buying (src: MID 02:37):
 2. Help your jungler take the first neutral camp (02:48; camp name garbled, ⚠ unverified).
 3. Return to mid and clear the next wave quickly (02:52).
 Then branch by mobility (src: MID 03:02):
-- IF your mage is highly mobile THEN rotate directly to the exp lane, gank as much as possible, then return to mid to clear the wave; repeat. WHY: if the exp lane is ahead, securing the early objective becomes much easier; the aim is to give the exp laner a strong advantage.
-- IF your mage has no fast mobility THEN focus on clearing mid. WHY: if you miss minions you will not reach the level required for the first early objective (L-MID-03).
-- Regardless of hero: gank the exp lane and set up the early objective a fixed time before it spawns (L-MID-03). (src: MID 03:25)
-- ⚠ unverified: lane orientation on the video's minimap is ambiguous (the narration says "exp lane", the minimap icons point the other way); do not infer lane side from the clips.
+- IF your mage is highly mobile THEN rotate directly to the XP lane, gank as much as possible, then return to mid to clear the wave; repeat. WHY: if the XP lane is ahead, securing the Turtle becomes much easier; the aim is to give the XP laner a strong advantage.
+- IF your mage has no fast mobility THEN focus on clearing mid. WHY: if you miss minions you will not reach the level required for the first Turtle (L-MID-03).
+- Regardless of hero: gank the XP lane and set up the Turtle a fixed time before it spawns (L-MID-03). (src: MID 03:25)
+- ⚠ unverified: lane orientation on the video's minimap is ambiguous (the narration says "XP lane", the minimap icons point the other way); do not infer lane side from the clips.
 
-## 4. early-objective fights and fight position
-- Your job in objective fights is to ZONE the enemies; you are not the exp laner. (src: MID 03:40)
-  - Stay behind your tank or exp laner; do not wait alone in bushes (you will be picked off); engage when your exp laner engages. (src: MID 03:45–03:56)
+## 4. Turtle fights and fight position
+- Your job in objective fights is to ZONE the enemies; you are not the XP laner. (src: MID 03:40)
+  - Stay behind your tank or XP laner; do not wait alone in bushes (you will be picked off); engage when your XP laner engages. (src: MID 03:45–03:56)
 - Position by type ("Fight Position"): (src: MID 04:00)
   - DPS or utility mage: stay in safe bushes, behind walls or behind your tank.
   - Burst mage: flank together with your team; the goal is to delete the enemy jungler.
 - TIP 3/3, the key trick against being picked off: do not show yourself on the map; appear only at the right moment, then burst with your full combo. (src: MID 04:24)
-- Repeat this until the third early objective is secured (L-MID-03). (src: MID 04:30)
+- Repeat this until the third Turtle is secured (L-MID-03). (src: MID 04:30)
 
 ## 5. The three biggest mistakes
 1. **Rotating at the wrong time.** Minion waves spawn at fixed seconds each minute and take a fixed walking time from base to centre, so they meet at fixed seconds; remember this and calculate your rotation so you do not miss waves. (src: MID 04:46–05:06; numbers → L-MID-04, ⚠ conflict inside MID: "10th and 14th second" vs examples implying :10/:40)
@@ -52,14 +52,14 @@ Then branch by mobility (src: MID 03:02):
 - Cross-reference: anti-heal as a build property in 05-itemization.
 
 ## 7. Mid-game macro
-- Early-game priority = help the exp laner; mid-game priority = shift to the jungler. (src: MID 06:09)
-- Open the scoreboard and compare your jungler with the enemy jungler: the higher the level, the stronger the objective-secure spell. Never let your jungler fall behind. (src: MID 06:12; numbers → L-MID-06)
+- Early-game priority = help the XP laner; mid-game priority = shift to the jungler. (src: MID 06:09)
+- Open the scoreboard and compare your jungler with the enemy jungler: the higher the level, the stronger the Retribution. Never let your jungler fall behind. (src: MID 06:12; numbers → L-MID-06)
 - Position trick: IF your jungler farms on the red side of the map THEN be on the right side of the map; IF he farms on the blue side THEN be on the left. Help him when he is invaded and never let enemies steal his camps. (src: MID 06:25–06:38; ⚠ unverified: whether "red/blue side" means map side or buff side)
-- IF your jungler is safe THEN look at other lanes. In the mid game the gold lane is easier to gank than the exp lane, BECAUSE the enemy marksmen do not have their defensive items yet; take the shown path, then return to mid immediately. (src: MID 06:44–06:56; item-timing claim → L-MID-07)
+- IF your jungler is safe THEN look at other lanes. In the mid game the gold lane is easier to gank than the XP lane, BECAUSE the enemy marksmen do not have their defensive items yet; take the shown path, then return to mid immediately. (src: MID 06:44–06:56; item-timing claim → L-MID-07)
 - Always watch the map and move in sync with your jungler and roamer. (src: MID 07:01)
 
 ## 8. Late game: three obligations
-1. **Do not get picked off.** Never be alone in a lane; stick with your roamer. The biggest mistake is clearing a far lane alone — that is your exp laner's job. (src: MID 07:21–07:29)
+1. **Do not get picked off.** Never be alone in a lane; stick with your roamer. The biggest mistake is clearing a far lane alone — that is your XP laner's job. (src: MID 07:21–07:29)
 2. **Break through the enemy's protective item** (a defensive item that must be broken by magic burst): you must survive because you are the only one who can break it. (src: MID 07:29; item → L-MID-08)
 3. **Save your strongest skills and target the enemy marksmen.** (src: MID 07:37)
 - Do not push turrets: you do not deal turret damage (L-MID-09). BUT IF your base is being pushed THEN you must be first to defend, using skills and range to clear waves. (src: MID 07:44–07:47)
@@ -68,11 +68,11 @@ Then branch by mobility (src: MID 03:02):
 | MISTAKE | FIX | src |
 |---|---|---|
 | Picking a burst mage without a pick-off roamer | Pick DPS or utility | MID 01:43 |
-| Waiting alone in a bush | Stay behind the tank; engage with the exp laner | MID 03:50 |
+| Waiting alone in a bush | Stay behind the tank; engage with the XP laner | MID 03:50 |
 | Rotating at the wrong time | Use the wave meeting seconds | MID 04:52 |
 | Staying too long in a lane | Leave after the safe path; gold/exp splits | MID 05:20 |
 | Buying the anti-heal item without checking who else has one | Apply the buy rule in §6 | MID 05:42 |
-| Clearing a far lane alone in the late game | Leave it to the exp laner | MID 07:29 |
+| Clearing a far lane alone in the late game | Leave it to the XP laner | MID 07:29 |
 
 ## Flagged items
 - ⚠ conflict (inside MID): "10th and 14th second" vs the video's examples (10:10, 12:40; meet at :27 and :57), which imply spawns at :10 and :40. Treated as a mishearing of "40th"; the number lives in L-MID-04.

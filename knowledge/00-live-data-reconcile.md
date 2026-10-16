@@ -8,27 +8,23 @@ Purpose: every volatile fact the tactics rely on, collected from the topic files
 - Also still to do: search the wiki patch history for changes to items, emblems, battle spells, Retribution/jungle, objectives and the map since the videos (the videos show patch era 1.9.9.0 in clips and mention Season 40).
 - Audit route column: `wiki` rows are audited during the build (mechanics/numbers/categories); rows whose source is only `mlbbhub` are for the skill's user at use time (rule: do not use mlbbhub during the build).
 
-## Term mapping (game-agnostic wording in `knowledge/` ↔ the game the videos used)
-The tactics are written so the thinking survives a change of game or patch: no hero, item, spell, talent, objective or UI names. Wherever the tactics say the left-hand term, the videos meant the right-hand one. This table is volatile (names change by game and patch) and is the only place the names live; an equivalent in another game fills the left term the same way.
+## MLBB mechanic vocabulary kept in the tactics
+Decision (2026-10-16, user): the tactics keep MLBB's own mechanic terms and their definitions (objectives, minions, towers, jungle spell, buffs), because the tactics are about this game's mechanics. What stays OUT of the tactics is hero, item and talent names and any stat/number of them (properties only). Numbers and timers of the mechanics below are LIVE rows.
 
-| Generic term used in the tactics | What it meant in the videos (MLBB) |
+| Term kept in the tactics | Meaning as the videos use it (numbers → LIVE rows) |
 |---|---|
-| early objective | the Turtle (first/second/third spawn) |
-| major objective | the Lord (late-game objective; evolves; its minions) |
-| empowered minions | Lord minions (from the major objective) and super minions (from a destroyed base-gate tower) |
-| base-gate tower | inhibitor turret |
-| outer / inner tower | outer / inner turret |
-| lane monster | the lane crab |
-| siege minion | cannon minion ("wagon") |
-| plating | tower plating (golden layer that gives gold and expires) |
-| objective-secure spell | Retribution (jungle spell and its variants) |
-| escape spell / cleanse spell | Flicker / Purify (battle spells) |
-| active spell | battle spell |
-| resource buff | blue buff / red buff |
-| pre-game set (category, talent 1/2, core talent) | emblem (assassin/tank/fighter/common/mage/support/marksman) and its talents |
-| professional-league draft | MPL draft ban; public blind ban |
-| top rank tier | Mythic (rank threshold quoted in GOLD) |
-| exp lane / gold lane / mid / jungle / roam | the five MLBB roles/lanes |
+| Turtle | early neutral objective (first, second, third spawn); gives a lot of gold and exp, contested with Retribution (TERM 09:18, EXP 06:36) |
+| Lord | later neutral objective; defeating it gives Lord minions; it evolves later (TERM 11:58, 12:08) |
+| Lord minions / super minions | enhanced minions after defeating the Lord / minions that appear after an inhibitor falls; Lord minions are stronger (TERM 12:08, MACRO 04:47) |
+| Outer / Inner / Inhibitor turret | turret tiers; mid outer+inner are most valuable, mid inhibitor least (MACRO 04:03–05:22) |
+| plating | golden layer on a tower that gives gold and expires (TERM 07:10, MACRO 05:35) |
+| crab | lane monster worth about one cannon minion (EXP 05:36, MACRO 06:40) |
+| cannon minion ("wagon") | the strong siege minion in a wave (EXP 04:58, MACRO 06:55) |
+| Retribution | jungle battle spell used to secure objectives/buffs; its damage scales with level; has variants (JUNG 01:37, 05:43) |
+| blue buff / red buff / Turtle buff | jungle and objective buffs (TERM 09:18) |
+| Lord dance | stalling the Lord at low pressure while pushing a far lane (JUNG 08:15–09:15) |
+| emblem (and its talents) | pre-game stat set chosen by role/sub-type (EMB) |
+| exp lane / gold lane / mid / jungle / roam | the five roles/lanes |
 
 ## Column guide
 - `Cited` = how many times the ID is cited in the tactical text of its file (0 would mean orphan; none exist).

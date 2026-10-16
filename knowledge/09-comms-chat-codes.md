@@ -15,7 +15,7 @@ Principle: high-rank chat is not random typing; it is fast, short-form calls. Ea
 | Code | Meaning | What you do | src |
 |---|---|---|---|
 | `freeze` (`freeze top`, `freeze bot`) | Freeze the lane; the lane keyword says which (bare `freeze` has no lane) | Do not touch the minions and do not clear the wave; leave it alone | CHAT 00:16–00:24 |
-| `F MM`, `P MAGE` (spell letter + hero/role) | The enemy used that active spell, so that hero has no escape/spell available | Green light to punish (attack/go in on) that hero | CHAT 00:24–00:38 |
+| `F MM`, `P MAGE` (spell letter + hero/role) | The enemy used that battle spell, so that hero has no escape/spell available | Green light to punish (attack/go in on) that hero | CHAT 00:24–00:38 |
 | `750 exp`, `820 EXP`, `425 mage` (time available + role) | That hero's spell is available again at that clock time | Know the exact moment the enemy is vulnerable again or dangerous again | CHAT 00:38–00:59 |
 | `ns`, `ns mid`, `ns mage` ("no skill" + hero) | The enemy used an important skill or their ultimate | Do not wait; this is your chance to fight | CHAT 00:56–01:08 |
 | `lbm`, `rbm` (left/right bush, mid) + who | An enemy hero is hiding in that mid bush | Do not face-check that bush; act knowing he is there | CHAT 01:08–01:28 |
@@ -27,7 +27,7 @@ Principle: high-rank chat is not random typing; it is fast, short-form calls. Ea
 | `lord`, `turt` | Team priority: secure the objective | Stop chasing someone who cannot be yours (do not chase a fleeing hero) | CHAT 02:22–02:30 |
 
 ## 3. Computing a spell timer yourself
-- Time available = the time the enemy used the spell + the spell's cooldown. Worked example: the enemy exp laner used the escape spell at 6:20, add the spell's cooldown (the video adds 2 minutes), so type `820 EXP`. (src: CHAT 00:44–00:52; cooldown → L-CHAT-01)
+- Time available = the time the enemy used the spell + the spell's cooldown. Worked example: the enemy XP laner used the escape spell at 6:20, add the spell's cooldown (the video adds 2 minutes), so type `820 EXP`. (src: CHAT 00:44–00:52; cooldown → L-CHAT-01)
 - Type the time as digits with no colon (`820`, not `8:20`). (src: CHAT 00:52)
 
 ## 4. How to use the calls
