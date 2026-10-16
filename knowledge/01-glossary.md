@@ -22,8 +22,8 @@ Scope: Definitions of the vocabulary the other topic files rely on, in match ord
   - Critical: chance-based boost to basic-attack damage. Critical damage is the multiplier (100% crit damage = doubled). Critical chance is the likelihood (50% = 1 in 2 attacks); the on-screen example alternates normal and doubled hits. (src: TERM 03:08)
   - TIP: "Criticals are useless if you don't scale correctly." (src: TERM 03:35)
 - **Scale**: how much a hero gets stronger from a particular stat. Higher physical attack → more damage for a hero that scales on physical attack; the on-screen numbers are illustrative only → L-GLOSS-03. (src: TERM 03:41)
-- **Damage types** (src: TERM 03:53): physical attack → physical damage (red); magic power → magic damage (blue); **adaptive** = physical if physical attack is higher than magic power, magic otherwise; **true damage** = strongest, penetrates all defensive stats (white).
-- **Damage reduction**: you receive less damage. **Physical attack reduction**: an enemy afflicted by it deals less physical damage. (src: TERM 04:16) ⚠ unverified: no numbers were captured for damage reduction.
+- **Damage types** (src: TERM 03:53): physical attack → physical damage (red); magic power → magic damage (blue); **adaptive** = physical if physical attack is higher than magic power, magic otherwise; **true damage** = strongest, penetrates all defensive stats (white). → L-GLOSS-04
+- **Damage reduction**: you receive less damage. **Physical attack reduction**: an enemy afflicted by it deals less physical damage. (src: TERM 04:16) The card shows only the heading "You'll receive less damage" and an ambiguous 100 vs 80 illustration; the clear 100 → 80 illustration belongs to physical attack reduction. ⚠ unverified: no rule or number for damage reduction itself. → L-GLOSS-04 (damage types) and the card illustrate only.
 - **Lifesteal / spell vamp / hybrid lifesteal** (src: TERM 08:50): lifesteal heals from basic-attack damage; spell vamp heals from skill damage; hybrid lifesteal is the strongest and heals from any damage. The video says lifesteal is the best way to survive enemy ganks. → L-GLOSS-08
 - **Stacks**: accumulated effects/bonuses that increase with time or actions; the video's clip shows a skill that grants a stack when used to land a last hit. (src: TERM 10:25)
 
@@ -45,10 +45,10 @@ Scope: Definitions of the vocabulary the other topic files rely on, in match ord
   - **Slow push**: save up minions to build a massive wave by keeping exactly one more minion than the enemy.
   - **Hard push**: clear the enemy minions as fast as possible so your minions are shoved to the enemy tower.
   - **Freeze**: keep the minions where they are by keeping your minion count equal to the enemy's.
-  - ⚠ conflict (inside TERM): the audio attributes "build a massive wave" to hard push, the on-screen cards put it under slow push. The cards are followed here.
+  - ⚠ conflict (inside TERM): the audio attributes "build a massive wave" to hard push, the on-screen cards (Versus #9, 07:40–07:52) put it under slow push. The cards are followed here; the frames confirm the card wording.
 - **Last hit**: dealing the final blow on a minion to get its gold. **Deny** (TIP #3, "the one thing you must do when farming"): make the enemy lose minions and gold, usually by zoning. **Zoning**: keeping the enemy out of an area (lane, Turtle pit, Lord pit). (src: TERM 07:54–08:08)
 - **Solo kill**: killing the enemy laner 1v1. (src: TERM 08:22)
-- **KDA**: Kill/Death/Assist ratio showing how often you kill or assist relative to how often you die (kills and assists green, deaths red). ⚠ unverified: the formula frame was never captured. (src: TERM 08:22)
+- **KDA**: Kill/Death/Assist ratio showing how often you kill or assist relative to how often you die (kills and assists green, deaths red). Formula, as shown on screen: **(Kill + Assist) / Death**. (src: TERM 08:22, 08:41 — confirmed in the gap-fill from existing frames)
 - **Gank**: going to another lane to help kill the enemy; **pathing**: the route you take. IF you expect a gank THEN play safe BECAUSE survival decides the lane. (src: TERM 08:50)
 - **Dive**: entering the enemy tower to secure a kill. **Peel**: guarding a teammate from enemy attacks. IF you expect to be dived THEN your roamer should peel for you. (src: TERM 09:18)
 
@@ -68,7 +68,7 @@ Scope: Definitions of the vocabulary the other topic files rely on, in match ord
 - **Lord minions**: enhanced minions after defeating the Lord. **Super minions**: appear when you destroy the enemy inhibitor. Lord minions are stronger than super minions. (src: TERM 12:08) → L-GLOSS-12
 
 ## Flagged items carried over
-- ⚠ unverified: Versus cards #2, #4, #9, #11, #12 were inferred from transcript order and never seen; step 1 of the handoff (gap-fill) could not be done because `src/` is not available.
+- Gap-fill (2026-10-16, from the existing 153 frames, no `src/`): Versus #2 (jungler/core/hyper), #4 (sustain/tanky) and #9 (slow push/hard push/freeze) were confirmed on screen and the KDA formula was found. ⚠ unverified: Versus #11 and #12 never appear in any frame, so what they cover is still unknown; extra frames would need `src/` (`work/frame.sh`).
 - ⚠ unverified: the opening card also groups "Popular Terms" and "Epic Player Terms" (e.g. core, anti-heal), and later "immortal" terms were announced but not shown.
 - ⚠ conflict: TERM audio says the Lord evolves at "minute 18", the late-game graphic runs to about 17 → L-GLOSS-11.
 

@@ -212,6 +212,17 @@ Source: Every MLBB Term Explained.mp4 | ~12:25 | Glossary video: MLBB terms in o
 - Epic-player-term list (Core, Anti Heal, TB ...) and any "immortal" terms beyond those explained were not fully shown.
 - 13 "Versus" cards are announced; cards verified: #1 burst/DPS, #3 heal/anti-heal, #5 immune/untargetable, #6 on-hit/critical, #7 damage reduction/PA reduction, #8 blind/draft ban, #10 lifesteal vs spell vamp vs hybrid, #13 Lord/super minions. Others (#2, #4, #9, #11, #12) inferred from transcript order, not seen.
 
+## Gap-fill from existing frames (2026-10-16, no `src/` needed; checked all 153 frames in work/frames)
+- KDA formula is on screen at 08:41–08:43: **(Kill + Assist) / Death** (kills and assists circled green, deaths circled red). Resolves the earlier "formula not captured" item. [08:41] [T]
+- Win rate formula on screen at 06:06: Total Win / Total Match × 100% (matches the text above). [06:06] [T]
+- Versus #2/13 card (01:08–01:22): Jungler vs Core vs Hyper. Confirms the three role/strategy definitions above. [T]
+- Versus #4/13 card (02:00–02:06): Sustain vs Tanky. Sustain "survives using: Heal, Shield"; Tanky "survives with: Health, Defence" (the Defence line is faded in the frame). Confirms the sustained/tanky split above. [T]
+- Versus #9/13 card (07:36–07:52): Slow Push vs Hard Push vs Freeze. On screen: Slow Push = "Saving up Minions to build a massive [wave]; you can do this by making sure you have just one more Minion than the enemy". Hard Push = "Clearing the enemy Minions as quickly [as possible]". Freeze = shown with its own minimap card. This confirms the notes followed the on-screen cards over the audio. [T]
+- Versus #11/13 and #12/13 cards: no frame in the folder shows these headers (frames jump from #10 at 09:00 to later single-term cards, and #13 at 12:05). Still unseen; ⚠ unverified which terms they cover. The later single-term cards (Dive, Powerspike, Invade, Snowball, Bounty, Stacks, Backline/Lock, Flank vs clash, Pickoff, Split/Straight/3-lane push) have no "Versus" header in the sampled frames.
+- Damage-reduction card (04:28–04:30): only a heading, "You'll receive less damage", and an illustration of 100 vs 80 whose labels are ambiguous mid-animation (the Physical Attack Reduction card at 04:35 is clear: without = 100, with = 80 damage dealt). No numeric rule is stated for damage reduction. ⚠ unverified.
+- Timeline graphics: early game bracket 0–5 minutes ("The first five minutes in the Land of Dawn", 06:45); mid game bracket starts at 5 and the Lord icon sits at 8, "Usually, we'll have Clashes or Wars" (10:50–10:55); late game timeline starts at the Lord icon at 8 with a bracket reaching about 17 followed by ">>>" (12:00). So the graphic marks the Lord at minute 8 and the bracket end near 17, against the audio "minute 18". Conflict remains.
+- Late-game card #13 (12:10–12:15): Lord Minions = "Enhanced Minions after defeating the Lord"; Super Minions = "Appear when you destroy the enemy's [inhibitor]" (text truncated in frame).
+
 ## LIVE-DATA TO RE-VERIFY
 | claim (as in video) | [mm:ss] | what to check | likely source |
 |---|---|---|---|

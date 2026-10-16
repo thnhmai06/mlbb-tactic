@@ -12,7 +12,7 @@ Scope: Draft by team composition and rank, the emblem decision after the pick, p
 ### 1b. Not in a 5-man party: depends on rank
 - IF you are in the top rank tier the video names (L-GOLD-02) or above THEN fill your teammates' weaknesses using the composition theory above; your gold laner does not have to be a marksman or mage. (src: GOLD 01:39, 02:15)
   - MISTAKE (#1/4): picking heroes that rely heavily on communication. (src: GOLD 01:46)
-  - Worked example, "High Rank Draft": the team's other four slots already form a front line and a support structure, the gold-lane slot is empty; picking a marksman would make the team "too squishy", so pick a fighter-type gold laner instead. (src: GOLD 02:00–02:15)
+  - Worked example, "High Rank Draft": the other four slots are already filled and the gold-lane slot is empty (the video named the four heroes; dropped); picking a marksman would make the team "too squishy", so pick a fighter-type gold laner instead. (src: GOLD 02:00–02:15)
 - IF below that rank THEN pick a hero that can carry. (src: GOLD 02:27)
 - Damage-type balance: IF the team already has a lot of magic heroes THEN pick physical, and vice versa. Worked example "Low Rank Draft": your team is mostly magic and your slot is physical-capable → you pick physical. (src: GOLD 02:30–02:36; same rule in EXP 01:39)
 - Mindset: "think of the game as 1 vs 9" — your hero must be able to carry on its own. (src: GOLD 02:36)
